@@ -14,7 +14,7 @@
 ![Tour Übersicht](./bilder/Screenshot_3.png)
 *Detaillierte Analyse aller Touren mit Effizienz-Bewertung*
 
-### � **Haltestellen-Management**
+### 🚌 **Haltestellen-Management**
 ![Haltestellen](./bilder/Screenshot_4.png)
 *Umfassende Haltestellen-Analyse mit Taktung und Auslastung*
 
