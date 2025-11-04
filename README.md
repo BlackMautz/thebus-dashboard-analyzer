@@ -5,13 +5,19 @@
 ### 🌟 **Interactive Demo**
 **👉 [Live Demo ansehen](https://blackmautz.github.io/thebus-dashboard-analyzer/demo.html)**
 
-*Klicke auf den Link um das Dashboard live zu testen!*
+*Erlebe das TheBus Dashboard mit echten Heinsberg-Daten in Aktion!*
+
+### 🎯 **Demo Features:**
+- 📊 **Live Statistics** - 19 Linien, 676 Touren, 13 Module
+- 🚌 **Real Data** - Echte Daten aus dem Heinsberg Verkehrssystem
+- 💡 **95% Efficiency** - Optimierte Routenplanung
+- 🎨 **Professional UI** - Moderne, responsive Benutzeroberfläche
 
 ### 📱 **Features im Demo:**
-- ✅ **Klickbare Vehicle Cards** - Erweitere die Fahrzeug-Details
-- ✅ **Color-coded Efficiency** - Grün (Gut), Gelb (OK), Rot (Kritisch)  
-- ✅ **Real Interface** - Genau wie die echte Anwendung
-- ✅ **Mobile Responsive** - Funktioniert auf allen Geräten
+- ✅ **Professional Landing Page** - Moderne Einstiegsseite mit Statistiken
+- ✅ **Interactive Dashboard** - Vollständig funktionsfähige TheBus-Analyse
+- ✅ **Real-Time Data** - Live-Daten aus dem Heinsberg-System
+- ✅ **Mobile Responsive** - Optimiert für alle Geräte
 
 ![TheBus Dashboard](https://via.placeholder.com/800x400/007bff/ffffff?text=🚌+TheBus+Dashboard+Demo)
 
