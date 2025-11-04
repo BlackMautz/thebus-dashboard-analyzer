@@ -3,27 +3,27 @@
 ## 🖼️ **Screenshots - Echte Heinsberg-Daten**
 
 ### 🔴 **Live Status Monitor**
-![Live Status](https://prnt.sc/sZ1bZy-k0wsS)
+![Live Status](./bilder/Screenshot_1.png)
 *Echtzeit-Überwachung aller aktiven Busse mit Pünktlichkeits-Tracking*
 
 ### ⚠️ **Unzugeordnete Ressourcen**  
-![Unzugeordnet](https://prnt.sc/dOplAhs2J0TH)
+![Unzugeordnet](./bilder/Screenshot_2.png)
 *Automatische Erkennung von Touren ohne Fahrzeugzuordnung*
 
 ### 🚌 **Tour-Übersicht mit Details**
-![Tour Übersicht](https://prnt.sc/hazELW8jHSQh)
+![Tour Übersicht](./bilder/Screenshot_3.png)
 *Detaillierte Analyse aller Touren mit Effizienz-Bewertung*
 
 ### � **Haltestellen-Management**
-![Haltestellen](https://prnt.sc/riZC2luAtmp9)
+![Haltestellen](./bilder/Screenshot_4.png)
 *Umfassende Haltestellen-Analyse mit Taktung und Auslastung*
 
 ### ⏰ **Fahrplan-Validierung**
-![Touren Abfahrtzeiten](https://prnt.sc/S6Z9CpM0Dfp_)
+![Touren Abfahrtzeiten](./bilder/Screenshot_5.png)
 *Automatische Erkennung fehlender Abfahrtzeiten*
 
 ### 🚐 **Flotten-Management**
-![Flotten Management](https://prnt.sc/xbDVxc-wEB8c)
+![Flotten Management](./bilder/Screenshot_6.png)
 *Komplette Fahrzeugflotten-Übersicht mit Status-Tracking*
 
 ## ✨ **Features im Überblick**
