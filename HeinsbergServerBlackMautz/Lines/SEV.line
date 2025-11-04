@@ -1,0 +1,10 @@
+﻿{
+	"name": "SEV",
+	"displayName": "None",
+	"nameId": 937,
+	"breakStops": [],
+	"depotStopGroup": "Betriebshof Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

@@ -1,0 +1,37 @@
+﻿{
+    "name":  "03",
+    "line":  "NE7",
+    "conditions":  {
+                       "monday":  true,
+                       "tuesday":  true,
+                       "wednesday":  true,
+                       "thursday":  true,
+                       "friday":  true,
+                       "saturday":  false,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "NE7",
+                      "slotId":  1
+                  },
+                  {
+                      "line":  "NE7",
+                      "slotId":  3
+                  },
+                  {
+                      "line":  "NE7",
+                      "slotId":  17
+                  },
+                  {
+                      "line":  "NE7",
+                      "slotId":  8
+                  },
+                  {
+                      "line":  "NE7",
+                      "slotId":  22
+                  }
+              ],
+    "fleetVehicleId": "1346"
+}

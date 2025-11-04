@@ -1,0 +1,10 @@
+﻿{
+	"name": "VIP",
+	"displayName": "None",
+	"nameId": 111,
+	"breakStops": [],
+	"depotStopGroup": "None",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

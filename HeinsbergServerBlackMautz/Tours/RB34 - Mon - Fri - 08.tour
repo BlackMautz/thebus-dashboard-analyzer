@@ -1,0 +1,46 @@
+﻿{
+	"name": "08",
+	"line": "RB34",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "RB34",
+			"slotId": 30
+		},
+		{
+			"line": "RB34",
+			"slotId": 67
+		},
+		{
+			"line": "RB34",
+			"slotId": 32
+		},
+		{
+			"line": "RB34",
+			"slotId": 69
+		},
+		{
+			"line": "RB34",
+			"slotId": 34
+		},
+		{
+			"line": "RB34",
+			"slotId": 71
+		},
+		{
+			"line": "RB34",
+			"slotId": 36
+		}
+	],
+	"fleetVehicleId": "1398"
+}

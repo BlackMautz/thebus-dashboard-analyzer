@@ -1,0 +1,21 @@
+# Temporäre Dateien
+*.tmp
+*.log
+*.cache
+
+# Backup Dateien
+*_backup.php
+*_old.php
+
+# System Dateien
+.DS_Store
+Thumbs.db
+
+# IDE/Editor Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: Persönliche Config (falls sensitive Daten)
+# config_personal.php

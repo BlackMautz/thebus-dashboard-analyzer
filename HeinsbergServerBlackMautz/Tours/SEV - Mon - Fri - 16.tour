@@ -1,0 +1,25 @@
+﻿{
+    "name":  "16",
+    "line":  "SEV",
+    "conditions":  {
+                       "monday":  true,
+                       "tuesday":  true,
+                       "wednesday":  true,
+                       "thursday":  true,
+                       "friday":  true,
+                       "saturday":  false,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "SEV",
+                      "slotId":  8
+                  },
+                  {
+                      "line":  "SEV",
+                      "slotId":  35
+                  }
+              ],
+    "fleetVehicleId":  "2569"
+}
