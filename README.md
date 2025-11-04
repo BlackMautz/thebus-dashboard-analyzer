@@ -1,25 +1,30 @@
 # TheBus Dashboard Analyzer 🚌
 
-## 🖼️ **Live Preview**
+## 🖼️ **Screenshots - Echte Heinsberg-Daten**
 
-### 🌟 **Interactive Demo**
-**👉 [Live Demo ansehen](https://blackmautz.github.io/thebus-dashboard-analyzer/demo.html)**
+### 🔴 **Live Status Monitor**
+![Live Status](https://prnt.sc/sZ1bZy-k0wsS)
+*Echtzeit-Überwachung aller aktiven Busse mit Pünktlichkeits-Tracking*
 
-*Erlebe das TheBus Dashboard mit echten Heinsberg-Daten in Aktion!*
+### ⚠️ **Unzugeordnete Ressourcen**  
+![Unzugeordnet](https://prnt.sc/dOplAhs2J0TH)
+*Automatische Erkennung von Touren ohne Fahrzeugzuordnung*
 
-### 🎯 **Demo Features:**
-- 📊 **Live Statistics** - 19 Linien, 676 Touren, 13 Module
-- 🚌 **Real Data** - Echte Daten aus dem Heinsberg Verkehrssystem
-- 💡 **95% Efficiency** - Optimierte Routenplanung
-- 🎨 **Professional UI** - Moderne, responsive Benutzeroberfläche
+### 🚌 **Tour-Übersicht mit Details**
+![Tour Übersicht](https://prnt.sc/hazELW8jHSQh)
+*Detaillierte Analyse aller Touren mit Effizienz-Bewertung*
 
-### 📱 **Features im Demo:**
-- ✅ **Professional Landing Page** - Moderne Einstiegsseite mit Statistiken
-- ✅ **Interactive Dashboard** - Vollständig funktionsfähige TheBus-Analyse
-- ✅ **Real-Time Data** - Live-Daten aus dem Heinsberg-System
-- ✅ **Mobile Responsive** - Optimiert für alle Geräte
+### � **Haltestellen-Management**
+![Haltestellen](https://prnt.sc/riZC2luAtmp9)
+*Umfassende Haltestellen-Analyse mit Taktung und Auslastung*
 
-![TheBus Dashboard](https://via.placeholder.com/800x400/007bff/ffffff?text=🚌+TheBus+Dashboard+Demo)
+### ⏰ **Fahrplan-Validierung**
+![Touren Abfahrtzeiten](https://prnt.sc/S6Z9CpM0Dfp_)
+*Automatische Erkennung fehlender Abfahrtzeiten*
+
+### 🚐 **Flotten-Management**
+![Flotten Management](https://prnt.sc/xbDVxc-wEB8c)
+*Komplette Fahrzeugflotten-Übersicht mit Status-Tracking*
 
 ## ✨ **Features im Überblick**
 - 🚌 **Real-Time Vehicle Efficiency Analysis**
