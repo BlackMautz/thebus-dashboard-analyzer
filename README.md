@@ -1,5 +1,21 @@
 # TheBus Dashboard Analyzer 🚌
 
+## 🖼️ **Live Preview**
+
+![TheBus Dashboard](https://via.placeholder.com/800x400/007bff/ffffff?text=🚌+TheBus+Dashboard+Demo)
+
+*Hier wird bald ein Screenshot/GIF der Live-Demo stehen*
+
+## ✨ **Features im Überblick**
+- 🚌 **Real-Time Vehicle Efficiency Analysis**
+- 📊 **Interactive Tour Cards mit Click-to-Expand**
+- ⏱️ **Echte Standzeiten** (keine Schätzungen!)
+- 🎯 **Color-coded Efficiency Ratings**
+- 📱 **Responsive Design**
+- 🔧 **Easy Setup** (nur config.php anpassen)
+
+---
+
 Ein erweitetes Dashboard zur Analyse von TheBus-Daten mit konfigurierbaren Einstellungen.
 
 ## 🚀 **Quick Setup für andere User**
