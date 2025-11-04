@@ -2,9 +2,18 @@
 
 ## 🖼️ **Live Preview**
 
-![TheBus Dashboard](https://via.placeholder.com/800x400/007bff/ffffff?text=🚌+TheBus+Dashboard+Demo)
+### 🌟 **Interactive Demo**
+**👉 [Live Demo ansehen](https://blackmautz.github.io/thebus-dashboard-analyzer/demo.html)**
 
-*Hier wird bald ein Screenshot/GIF der Live-Demo stehen*
+*Klicke auf den Link um das Dashboard live zu testen!*
+
+### 📱 **Features im Demo:**
+- ✅ **Klickbare Vehicle Cards** - Erweitere die Fahrzeug-Details
+- ✅ **Color-coded Efficiency** - Grün (Gut), Gelb (OK), Rot (Kritisch)  
+- ✅ **Real Interface** - Genau wie die echte Anwendung
+- ✅ **Mobile Responsive** - Funktioniert auf allen Geräten
+
+![TheBus Dashboard](https://via.placeholder.com/800x400/007bff/ffffff?text=🚌+TheBus+Dashboard+Demo)
 
 ## ✨ **Features im Überblick**
 - 🚌 **Real-Time Vehicle Efficiency Analysis**
