@@ -1,0 +1,308 @@
+﻿{
+	"line": "NE5",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:00:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 0,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 1,
+			"distanceInMeters": 321.58230590820312,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 3,
+			"distanceInMeters": 682.0430908203125,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Westend",
+			"stopIndex": 11,
+			"distanceInMeters": 400.17874145507812,
+			"groupName": "Wegberg Westend",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Haus St. Georg",
+			"stopIndex": 1,
+			"distanceInMeters": 662.00030517578125,
+			"groupName": "Watern Haus St. Georg",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Bischofsmühle",
+			"stopIndex": 2,
+			"distanceInMeters": 550.31561279296875,
+			"groupName": "Watern Bischofsmühle",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroicher Mühle",
+			"stopIndex": 25,
+			"distanceInMeters": 1455.628662109375,
+			"groupName": "Tüschenbroicher Mühle",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroich Schule",
+			"stopIndex": 32,
+			"distanceInMeters": 532.18402099609375,
+			"groupName": "Tüschenbroich Schule",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "geneiken",
+			"stopIndex": 11,
+			"distanceInMeters": 1594.2176513671875,
+			"groupName": "geneiken",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Geneiken Dyker Str.",
+			"stopIndex": 11,
+			"distanceInMeters": 673.9124755859375,
+			"groupName": "Geneiken Dyker Str.",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schwanenberg Schule",
+			"stopIndex": 11,
+			"distanceInMeters": 1111.37060546875,
+			"groupName": "Schwanenberg Schule",
+			"travelTimeMinutes": 24,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "grambusch",
+			"stopIndex": 23,
+			"distanceInMeters": 1062.5145263671875,
+			"groupName": "grambusch",
+			"travelTimeMinutes": 27,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kehrbusch",
+			"stopIndex": 6,
+			"distanceInMeters": 858.08245849609375,
+			"groupName": "kehrbusch",
+			"travelTimeMinutes": 29,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 2,
+			"distanceInMeters": 1741.4437255859375,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 32,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Keyenberg (neu) Markt",
+			"stopIndex": 1,
+			"distanceInMeters": 1340.8765869140625,
+			"groupName": "Keyenberg (neu) Markt",
+			"travelTimeMinutes": 34,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Keyenberg (neu) Friedhof",
+			"stopIndex": 1,
+			"distanceInMeters": 444.70147705078125,
+			"groupName": "Keyenberg (neu) Friedhof",
+			"travelTimeMinutes": 36,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kuckum (neu) Markt",
+			"stopIndex": 1,
+			"distanceInMeters": 688.9144287109375,
+			"groupName": "Kuckum (neu) Markt",
+			"travelTimeMinutes": 38,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mennekrath",
+			"stopIndex": 2,
+			"distanceInMeters": 985.1417236328125,
+			"groupName": "Mennekrath",
+			"travelTimeMinutes": 40,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 2195.5615234375,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 43,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 0,
+			"distanceInMeters": 1440.152587890625,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 46,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Gymnasium",
+			"stopIndex": 6,
+			"distanceInMeters": 688.2584228515625,
+			"groupName": "Erkelenz Gymnasium",
+			"travelTimeMinutes": 48,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bauxhof",
+			"stopIndex": 6,
+			"distanceInMeters": 287.02822875976562,
+			"groupName": "Erkelenz Bauxhof",
+			"travelTimeMinutes": 50,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hoogenhof",
+			"stopIndex": 7,
+			"distanceInMeters": 259.57586669921875,
+			"groupName": "Erkelenz Hoogenhof",
+			"travelTimeMinutes": 52,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oidtmannhof",
+			"stopIndex": 9,
+			"distanceInMeters": 495.1629638671875,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 54,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Antwerpener Straße",
+			"stopIndex": 6,
+			"distanceInMeters": 326.12933349609375,
+			"groupName": "Erkelenz Antwerpener Straße",
+			"travelTimeMinutes": 55,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Agentur für Arbeit",
+			"stopIndex": 4,
+			"distanceInMeters": 641.23297119140625,
+			"groupName": "Erkelenz Agentur für Arbeit",
+			"travelTimeMinutes": 57,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 4,
+			"distanceInMeters": 544.72906494140625,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 59,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 3,
+			"distanceInMeters": 888.87530517578125,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 61,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 3,
+			"distanceInMeters": 816.087890625,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 63,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 23687.896484375,
+	"travelTimeMinutes": 63,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

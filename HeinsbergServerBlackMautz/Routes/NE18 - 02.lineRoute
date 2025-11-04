@@ -1,0 +1,118 @@
+﻿{
+	"line": "NE18",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:00:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 8,
+			"distanceInMeters": 0,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 6,
+			"distanceInMeters": 896.193359375,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 4,
+			"distanceInMeters": 683.75848388671875,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 7,
+			"distanceInMeters": 299.14996337890625,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 7,
+			"distanceInMeters": 888.5499267578125,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 857.7073974609375,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Burg",
+			"stopIndex": 7,
+			"distanceInMeters": 813.30352783203125,
+			"groupName": "Erkelenz Burg",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oerather Mühle",
+			"stopIndex": 5,
+			"distanceInMeters": 596.5673828125,
+			"groupName": "Erkelenz Oerather Mühle",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kehrbusch.",
+			"stopIndex": 31,
+			"distanceInMeters": 2435.773681640625,
+			"groupName": "Kehrbusch.",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 2,
+			"distanceInMeters": 1749.458984375,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 9220.462890625,
+	"travelTimeMinutes": 19,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

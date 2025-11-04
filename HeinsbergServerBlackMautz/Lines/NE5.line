@@ -1,0 +1,10 @@
+﻿{
+	"name": "NE5",
+	"displayName": "None",
+	"nameId": 505,
+	"breakStops": [],
+	"depotStopGroup": "None",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

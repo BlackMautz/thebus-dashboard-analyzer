@@ -1,0 +1,10 @@
+﻿{
+	"name": "NE1",
+	"displayName": "None",
+	"nameId": 501,
+	"breakStops": [],
+	"depotStopGroup": "None",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

@@ -1,0 +1,298 @@
+﻿{
+	"line": "NE6",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:00:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Große Riet",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Große Riet",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnübergang",
+			"stopIndex": 1,
+			"distanceInMeters": 793.06524658203125,
+			"groupName": "Wegberg Bahnübergang",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Freiheider Straße",
+			"stopIndex": 3,
+			"distanceInMeters": 574.60931396484375,
+			"groupName": "Wegberg Freiheider Straße",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 3,
+			"distanceInMeters": 231.53448486328125,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Post",
+			"stopIndex": 4,
+			"distanceInMeters": 207.37359619140625,
+			"groupName": "Wegberg Post",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Markusstraße",
+			"stopIndex": 6,
+			"distanceInMeters": 538.2000732421875,
+			"groupName": "Wegberg Markusstraße",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 372.54269409179688,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Holtum Spielplatz",
+			"stopIndex": 3,
+			"distanceInMeters": 3289.1083984375,
+			"groupName": "Holtum Spielplatz",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Grambusch",
+			"stopIndex": 4,
+			"distanceInMeters": 1896.3680419921875,
+			"groupName": "Abzw. Grambusch",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oerather Mühle",
+			"stopIndex": 4,
+			"distanceInMeters": 2200.0712890625,
+			"groupName": "Erkelenz Oerather Mühle",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Burg",
+			"stopIndex": 0,
+			"distanceInMeters": 431.19497680664062,
+			"groupName": "Erkelenz Burg",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 1,
+			"distanceInMeters": 836.517822265625,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 24,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 5,
+			"distanceInMeters": 846.54193115234375,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 11,
+			"distanceInMeters": 852.37640380859375,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Gymnasium",
+			"stopIndex": 6,
+			"distanceInMeters": 255.86944580078125,
+			"groupName": "Erkelenz Gymnasium",
+			"travelTimeMinutes": 30,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bauxhof",
+			"stopIndex": 6,
+			"distanceInMeters": 287.02822875976562,
+			"groupName": "Erkelenz Bauxhof",
+			"travelTimeMinutes": 32,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hoogenhof",
+			"stopIndex": 7,
+			"distanceInMeters": 259.57586669921875,
+			"groupName": "Erkelenz Hoogenhof",
+			"travelTimeMinutes": 34,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oidtmannhof",
+			"stopIndex": 9,
+			"distanceInMeters": 495.1629638671875,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 36,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Antwerpener Straße",
+			"stopIndex": 6,
+			"distanceInMeters": 326.12933349609375,
+			"groupName": "Erkelenz Antwerpener Straße",
+			"travelTimeMinutes": 37,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Agentur für Arbeit",
+			"stopIndex": 8,
+			"distanceInMeters": 718.1163330078125,
+			"groupName": "Erkelenz Agentur für Arbeit",
+			"travelTimeMinutes": 39,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 2,
+			"distanceInMeters": 482.90927124023438,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 41,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 7,
+			"distanceInMeters": 289.53787231445312,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 42,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 3,
+			"distanceInMeters": 640.2933349609375,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 44,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 5,
+			"distanceInMeters": 1009.95703125,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 46,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wahnenbusch",
+			"stopIndex": 3,
+			"distanceInMeters": 615.674072265625,
+			"groupName": "Wahnenbusch",
+			"travelTimeMinutes": 48,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Bruchstr",
+			"stopIndex": 3,
+			"distanceInMeters": 2259.023681640625,
+			"groupName": "Lövenich Bruchstr",
+			"travelTimeMinutes": 51,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Post",
+			"stopIndex": 2,
+			"distanceInMeters": 301.0338134765625,
+			"groupName": "Lövenich Post",
+			"travelTimeMinutes": 53,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Schule",
+			"stopIndex": 2,
+			"distanceInMeters": 631.181640625,
+			"groupName": "Lövenich Schule",
+			"travelTimeMinutes": 55,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 21640.99609375,
+	"travelTimeMinutes": 55,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

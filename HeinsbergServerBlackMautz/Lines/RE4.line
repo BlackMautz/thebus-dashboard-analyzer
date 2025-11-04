@@ -1,0 +1,10 @@
+﻿{
+	"name": "RE4",
+	"displayName": "None",
+	"nameId": 999,
+	"breakStops": [],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

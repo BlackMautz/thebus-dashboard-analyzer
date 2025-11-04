@@ -1,0 +1,41 @@
+﻿{
+    "name":  "04",
+    "line":  "NE6",
+    "conditions":  {
+                       "monday":  true,
+                       "tuesday":  true,
+                       "wednesday":  true,
+                       "thursday":  true,
+                       "friday":  true,
+                       "saturday":  false,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "NE6",
+                      "slotId":  13
+                  },
+                  {
+                      "line":  "NE6",
+                      "slotId":  4
+                  },
+                  {
+                      "line":  "NE6",
+                      "slotId":  17
+                  },
+                  {
+                      "line":  "NE6",
+                      "slotId":  8
+                  },
+                  {
+                      "line":  "NE6",
+                      "slotId":  21
+                  },
+                  {
+                      "line":  "NE6",
+                      "slotId":  12
+                  }
+              ],
+    "fleetVehicleId": "1335"
+}

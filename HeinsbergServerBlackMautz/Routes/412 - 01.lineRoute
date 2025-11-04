@@ -1,0 +1,308 @@
+﻿{
+	"line": "412",
+	"forward": true,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Wegberg\r\nSchwalmaue",
+	"routeName": "01",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 1,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 5,
+			"distanceInMeters": 846.70294189453125,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Burg",
+			"stopIndex": 7,
+			"distanceInMeters": 1592.3743896484375,
+			"groupName": "Erkelenz Burg",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oidtmannhof",
+			"stopIndex": 6,
+			"distanceInMeters": 1128.7886962890625,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hoogenhof",
+			"stopIndex": 2,
+			"distanceInMeters": 447.20199584960938,
+			"groupName": "Erkelenz Hoogenhof",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Gymnasium",
+			"stopIndex": 2,
+			"distanceInMeters": 572.59344482421875,
+			"groupName": "Erkelenz Gymnasium",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 6,
+			"distanceInMeters": 783.22503662109375,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 5,
+			"distanceInMeters": 658.7767333984375,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Borschemich Kapelle",
+			"stopIndex": 2,
+			"distanceInMeters": 1097.2415771484375,
+			"groupName": "Borschemich Kapelle",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 5,
+			"distanceInMeters": 1338.3336181640625,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 32,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schönhausen",
+			"stopIndex": 4,
+			"distanceInMeters": 582.39691162109375,
+			"groupName": "Abzw. Schönhausen",
+			"travelTimeMinutes": 34,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mehlbusch",
+			"stopIndex": 4,
+			"distanceInMeters": 964.58966064453125,
+			"groupName": "Mehlbusch",
+			"travelTimeMinutes": 36,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kipshoven Kieswerk",
+			"stopIndex": 2,
+			"distanceInMeters": 583.08294677734375,
+			"groupName": "Kipshoven Kieswerk",
+			"travelTimeMinutes": 38,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Moorshoven Landstr.",
+			"stopIndex": 3,
+			"distanceInMeters": 419.21151733398438,
+			"groupName": "Moorshoven Landstr.",
+			"travelTimeMinutes": 39,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck am Friedhof",
+			"stopIndex": 13,
+			"distanceInMeters": 790.16656494140625,
+			"groupName": "Beeck am Friedhof",
+			"travelTimeMinutes": 41,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck im Maggenfeld",
+			"stopIndex": 2,
+			"distanceInMeters": 551.85504150390625,
+			"groupName": "Beeck im Maggenfeld",
+			"travelTimeMinutes": 43,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck Am Grüngürtel",
+			"stopIndex": 3,
+			"distanceInMeters": 534.265380859375,
+			"groupName": "Beeck Am Grüngürtel",
+			"travelTimeMinutes": 44,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "beeckerwald",
+			"stopIndex": 4,
+			"distanceInMeters": 325.23617553710938,
+			"groupName": "beeckerwald",
+			"travelTimeMinutes": 45,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Kiefernweg",
+			"stopIndex": 5,
+			"distanceInMeters": 311.87460327148438,
+			"groupName": "Wegberg Kiefernweg",
+			"travelTimeMinutes": 46,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Gerichhausen",
+			"stopIndex": 3,
+			"distanceInMeters": 604.54669189453125,
+			"groupName": "Wegberg Gerichhausen",
+			"travelTimeMinutes": 48,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Begegnungszentrum",
+			"stopIndex": 4,
+			"distanceInMeters": 192.00474548339844,
+			"groupName": "Wegberg Begegnungszentrum",
+			"travelTimeMinutes": 49,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Krankenhausstr",
+			"stopIndex": 1,
+			"distanceInMeters": 479.01068115234375,
+			"groupName": "Wegberg Krankenhausstr",
+			"travelTimeMinutes": 51,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Freiheider Straße",
+			"stopIndex": 3,
+			"distanceInMeters": 490.18765258789062,
+			"groupName": "Wegberg Freiheider Straße",
+			"travelTimeMinutes": 52,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 3,
+			"distanceInMeters": 230.17385864257812,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 53,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Post",
+			"stopIndex": 4,
+			"distanceInMeters": 207.37359619140625,
+			"groupName": "Wegberg Post",
+			"travelTimeMinutes": 54,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Markusstraße",
+			"stopIndex": 6,
+			"distanceInMeters": 538.2000732421875,
+			"groupName": "Wegberg Markusstraße",
+			"travelTimeMinutes": 56,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 371.1854248046875,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 57,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 0,
+			"distanceInMeters": 401.9815673828125,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 59,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 4,
+			"distanceInMeters": 1025.2431640625,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 61,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 18067.828125,
+	"travelTimeMinutes": 61,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

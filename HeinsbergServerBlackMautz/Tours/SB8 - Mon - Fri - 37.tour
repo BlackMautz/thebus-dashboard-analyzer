@@ -1,0 +1,33 @@
+﻿{
+    "name":  "37",
+    "line":  "SB8",
+    "conditions":  {
+                       "monday":  true,
+                       "tuesday":  true,
+                       "wednesday":  true,
+                       "thursday":  true,
+                       "friday":  true,
+                       "saturday":  false,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "SB8",
+                      "slotId":  111
+                  },
+                  {
+                      "line":  "SB8",
+                      "slotId":  113
+                  },
+                  {
+                      "line":  "SB8",
+                      "slotId":  115
+                  },
+                  {
+                      "line":  "SB8",
+                      "slotId":  117
+                  }
+	],
+	"fleetVehicleId": "1411"
+}

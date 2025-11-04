@@ -1,0 +1,238 @@
+﻿{
+	"line": "NE2",
+	"forward": true,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:00:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "01",
+	"routeStops": [
+		{
+			"stopName": "Nordpark Busbahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 0,
+			"groupName": "Nordpark Busbahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Nordpark",
+			"stopIndex": 6,
+			"distanceInMeters": 610.533447265625,
+			"groupName": "Am Nordpark",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Borussiapark",
+			"stopIndex": 6,
+			"distanceInMeters": 318.30783081054688,
+			"groupName": "Am Borussiapark",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Dahlener Heide",
+			"stopIndex": 9,
+			"distanceInMeters": 290.560302734375,
+			"groupName": "Dahlener Heide",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "dorthausen",
+			"stopIndex": 2,
+			"distanceInMeters": 644.0936279296875,
+			"groupName": "dorthausen",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kothausen",
+			"stopIndex": 5,
+			"distanceInMeters": 703.7718505859375,
+			"groupName": "kothausen",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Hohe Straße",
+			"stopIndex": 1,
+			"distanceInMeters": 748.5765380859375,
+			"groupName": "Hohe Straße",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "vogtsgarten",
+			"stopIndex": 8,
+			"distanceInMeters": 320.63931274414062,
+			"groupName": "vogtsgarten",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 1,
+			"distanceInMeters": 339.7589111328125,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Industriehof",
+			"stopIndex": 5,
+			"distanceInMeters": 238.3173828125,
+			"groupName": "Industriehof",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 491.03326416015625,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 9,
+			"distanceInMeters": 858.83245849609375,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schriefers",
+			"stopIndex": 7,
+			"distanceInMeters": 767.4764404296875,
+			"groupName": "Abzw. Schriefers",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schriefersmühle",
+			"stopIndex": 6,
+			"distanceInMeters": 306.468505859375,
+			"groupName": "Schriefersmühle",
+			"travelTimeMinutes": 23,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mehlbusch",
+			"stopIndex": 1,
+			"distanceInMeters": 1558.6785888671875,
+			"groupName": "Mehlbusch",
+			"travelTimeMinutes": 25,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schönhausen",
+			"stopIndex": 5,
+			"distanceInMeters": 914.91656494140625,
+			"groupName": "Abzw. Schönhausen",
+			"travelTimeMinutes": 27,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 2,
+			"distanceInMeters": 596.64813232421875,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 29,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Borschemich Kapelle",
+			"stopIndex": 2,
+			"distanceInMeters": 2552.96630859375,
+			"groupName": "Borschemich Kapelle",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mennekrath",
+			"stopIndex": 2,
+			"distanceInMeters": 883.700927734375,
+			"groupName": "Mennekrath",
+			"travelTimeMinutes": 35,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 2195.5615234375,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 38,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 0,
+			"distanceInMeters": 1440.153076171875,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 41,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 4,
+			"distanceInMeters": 684.40826416015625,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 43,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 17465.404296875,
+	"travelTimeMinutes": 43,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}
