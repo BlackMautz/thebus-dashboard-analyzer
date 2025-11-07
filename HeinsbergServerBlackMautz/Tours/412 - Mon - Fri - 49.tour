@@ -1,0 +1,25 @@
+﻿{
+    "name":  "49",
+    "line":  "412",
+    "conditions":  {
+                       "monday":  true,
+                       "tuesday":  true,
+                       "wednesday":  true,
+                       "thursday":  true,
+                       "friday":  true,
+                       "saturday":  false,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "412",
+                      "slotId":  103
+                  },
+                  {
+                      "line":  "412",
+                      "slotId":  92
+                  }
+              ],
+    "fleetVehicleId": "1093"
+}

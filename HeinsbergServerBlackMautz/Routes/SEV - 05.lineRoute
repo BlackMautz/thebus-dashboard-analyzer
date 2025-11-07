@@ -1,0 +1,88 @@
+﻿{
+	"line": "SEV",
+	"forward": false,
+	"note": "Schnelle rücktour",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:15:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "05",
+	"routeStops": [
+		{
+			"stopName": "Nordpark Busbahnhof",
+			"stopIndex": 39,
+			"distanceInMeters": 0,
+			"groupName": "Nordpark Busbahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Nordpark",
+			"stopIndex": 6,
+			"distanceInMeters": 60964.77734375,
+			"groupName": "Am Nordpark",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 11,
+			"distanceInMeters": 405735.75,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 3,
+			"distanceInMeters": 748565.5,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 4,
+			"distanceInMeters": 157050.828125,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 4,
+			"distanceInMeters": 703522.75,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 31,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 166203.796875,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 35,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 2242043.5,
+	"travelTimeMinutes": 35,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

@@ -1,0 +1,37 @@
+﻿{
+    "name":  "10",
+    "line":  "NE5",
+    "conditions":  {
+                       "monday":  false,
+                       "tuesday":  false,
+                       "wednesday":  false,
+                       "thursday":  false,
+                       "friday":  false,
+                       "saturday":  true,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "NE5",
+                      "slotId":  38
+                  },
+                  {
+                      "line":  "NE5",
+                      "slotId":  29
+                  },
+                  {
+                      "line":  "NE5",
+                      "slotId":  43
+                  },
+                  {
+                      "line":  "NE5",
+                      "slotId":  34
+                  },
+                  {
+                      "line":  "NE5",
+                      "slotId":  48
+                  }
+              ],
+    "fleetVehicleId": "1321"
+}

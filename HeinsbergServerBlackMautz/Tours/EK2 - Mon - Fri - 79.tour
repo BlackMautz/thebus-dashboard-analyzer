@@ -1,0 +1,33 @@
+﻿{
+    "name":  "79",
+    "line":  "EK2",
+    "conditions":  {
+                       "monday":  true,
+                       "tuesday":  true,
+                       "wednesday":  true,
+                       "thursday":  true,
+                       "friday":  true,
+                       "saturday":  false,
+                       "sunday":  false,
+                       "holiday":  false
+                   },
+    "slots":  [
+                  {
+                      "line":  "EK2",
+                      "slotId":  99
+                  },
+                  {
+                      "line":  "EK2",
+                      "slotId":  4
+                  },
+                  {
+                      "line":  "EK2",
+                      "slotId":  72
+                  },
+                  {
+                      "line":  "EK2",
+                      "slotId":  125
+                  }
+              ],
+    "fleetVehicleId": "1237"
+}

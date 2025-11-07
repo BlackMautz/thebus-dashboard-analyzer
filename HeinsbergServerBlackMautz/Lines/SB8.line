@@ -1,0 +1,10 @@
+﻿{
+	"name": "SB8",
+	"displayName": "None",
+	"nameId": 998,
+	"breakStops": [],
+	"depotStopGroup": "Betriebshof Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

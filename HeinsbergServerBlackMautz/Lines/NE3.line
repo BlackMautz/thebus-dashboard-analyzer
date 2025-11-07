@@ -1,0 +1,10 @@
+﻿{
+	"name": "NE3",
+	"displayName": "None",
+	"nameId": 503,
+	"breakStops": [],
+	"depotStopGroup": "None",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

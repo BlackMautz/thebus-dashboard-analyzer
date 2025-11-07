@@ -1,0 +1,45 @@
+﻿{
+    "name":  "01",
+    "line":  "NE3",
+    "conditions":  {
+                       "monday":  false,
+                       "tuesday":  false,
+                       "wednesday":  false,
+                       "thursday":  false,
+                       "friday":  false,
+                       "saturday":  false,
+                       "sunday":  true,
+                       "holiday":  true
+                   },
+    "slots":  [
+                  {
+                      "line":  "NE3",
+                      "slotId":  0
+                  },
+                  {
+                      "line":  "NE3",
+                      "slotId":  16
+                  },
+                  {
+                      "line":  "NE3",
+                      "slotId":  5
+                  },
+                  {
+                      "line":  "NE3",
+                      "slotId":  20
+                  },
+                  {
+                      "line":  "NE3",
+                      "slotId":  9
+                  },
+                  {
+                      "line":  "NE3",
+                      "slotId":  24
+                  },
+                  {
+                      "line":  "NE3",
+                      "slotId":  13
+                  }
+              ],
+    "fleetVehicleId": "1286"
+}
