@@ -1,0 +1,48 @@
+﻿{
+	"line": "EK2",
+	"forward": true,
+	"note": "V  Ab Kleinbouslar",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:08:00.000000000",
+	"endStopTextOverwrite": "Katzem\r\nKirche",
+	"routeName": "04",
+	"routeStops": [
+		{
+			"stopName": "kleinbouslar",
+			"stopIndex": 3,
+			"distanceInMeters": 0,
+			"groupName": "kleinbouslar",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Vorstadt",
+			"stopIndex": 4,
+			"distanceInMeters": 1651.4442138671875,
+			"groupName": "Katzem Vorstadt",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Kirche",
+			"stopIndex": 2,
+			"distanceInMeters": 375.28021240234375,
+			"groupName": "Katzem Kirche",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 2026.724365234375,
+	"travelTimeMinutes": 4,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

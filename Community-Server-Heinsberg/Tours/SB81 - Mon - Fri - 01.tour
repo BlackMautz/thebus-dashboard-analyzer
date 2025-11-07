@@ -1,0 +1,50 @@
+﻿{
+	"name": "01",
+	"line": "SB81",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "SB81",
+			"slotId": 0
+		},
+		{
+			"line": "SB81",
+			"slotId": 1
+		},
+		{
+			"line": "017",
+			"slotId": 21
+		},
+		{
+			"line": "017",
+			"slotId": 67
+		},
+		{
+			"line": "M1",
+			"slotId": 6
+		},
+		{
+			"line": "M1",
+			"slotId": 59
+		},
+		{
+			"line": "M1",
+			"slotId": 10
+		},
+		{
+			"line": "M1",
+			"slotId": 63
+		}
+	],
+	"fleetVehicleId": "2112"
+}

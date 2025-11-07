@@ -1,0 +1,108 @@
+﻿{
+	"line": "017",
+	"forward": false,
+	"note": "HDS ohne nordpark",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:05:00.000000000",
+	"endStopTextOverwrite": "Mönchengladbach\r\nLilienthalstraße",
+	"routeName": "06",
+	"routeStops": [
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 11,
+			"distanceInMeters": 0,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Industriehof",
+			"stopIndex": 3,
+			"distanceInMeters": 456.93890380859375,
+			"groupName": "Industriehof",
+			"travelTimeMinutes": 1,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 5,
+			"distanceInMeters": 244.8714599609375,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "vogtsgarten",
+			"stopIndex": 5,
+			"distanceInMeters": 395.52676391601562,
+			"groupName": "vogtsgarten",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Hohe Straße",
+			"stopIndex": 6,
+			"distanceInMeters": 185.17933654785156,
+			"groupName": "Hohe Straße",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kothausen",
+			"stopIndex": 8,
+			"distanceInMeters": 890.17510986328125,
+			"groupName": "kothausen",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "dorthausen",
+			"stopIndex": 7,
+			"distanceInMeters": 695.90777587890625,
+			"groupName": "dorthausen",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Dahlener Heide",
+			"stopIndex": 4,
+			"distanceInMeters": 548.36956787109375,
+			"groupName": "Dahlener Heide",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lilienthalstraße",
+			"stopIndex": 1,
+			"distanceInMeters": 118237.5234375,
+			"groupName": "Lilienthalstraße",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 121654.4921875,
+	"travelTimeMinutes": 11,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

@@ -1,0 +1,54 @@
+﻿{
+	"name": "06",
+	"line": "M4",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M4",
+			"slotId": 31
+		},
+		{
+			"line": "M4",
+			"slotId": 84
+		},
+		{
+			"line": "M4",
+			"slotId": 36
+		},
+		{
+			"line": "M4",
+			"slotId": 90
+		},
+		{
+			"line": "M4",
+			"slotId": 42
+		},
+		{
+			"line": "M4",
+			"slotId": 94
+		},
+		{
+			"line": "M4",
+			"slotId": 46
+		},
+		{
+			"line": "M4",
+			"slotId": 99
+		},
+		{
+			"line": "M4",
+			"slotId": 50
+		}
+	],
+	"fleetVehicleId": "1201"
+}

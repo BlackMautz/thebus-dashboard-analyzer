@@ -1,0 +1,178 @@
+﻿{
+	"line": "M1",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:12:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 5,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Post",
+			"stopIndex": 2,
+			"distanceInMeters": 1117.7371826171875,
+			"groupName": "Wegberg Post",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 6,
+			"distanceInMeters": 261.3160400390625,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Begegnungszentrum",
+			"stopIndex": 6,
+			"distanceInMeters": 982.25701904296875,
+			"groupName": "Wegberg Begegnungszentrum",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Gerichhausen",
+			"stopIndex": 8,
+			"distanceInMeters": 471.9481201171875,
+			"groupName": "Wegberg Gerichhausen",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "beeckerwald",
+			"stopIndex": 2,
+			"distanceInMeters": 870.46051025390625,
+			"groupName": "beeckerwald",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck im Maggenfeld",
+			"stopIndex": 6,
+			"distanceInMeters": 792.45843505859375,
+			"groupName": "Beeck im Maggenfeld",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kipshoven Kieswerk",
+			"stopIndex": 4,
+			"distanceInMeters": 1711.5635986328125,
+			"groupName": "Kipshoven Kieswerk",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 4,
+			"distanceInMeters": 2570.943359375,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 11,
+			"distanceInMeters": 864.2510986328125,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 21,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 5,
+			"distanceInMeters": 697.3109130859375,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 23,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kothausen",
+			"stopIndex": 8,
+			"distanceInMeters": 1465.38232421875,
+			"groupName": "kothausen",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "dorthausen",
+			"stopIndex": 7,
+			"distanceInMeters": 696.35809326171875,
+			"groupName": "dorthausen",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Nordpark",
+			"stopIndex": 12,
+			"distanceInMeters": 1289.211181640625,
+			"groupName": "Am Nordpark",
+			"travelTimeMinutes": 30,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Enscheder Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 515.08380126953125,
+			"groupName": "Enscheder Straße",
+			"travelTimeMinutes": 31,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Nordpark Busbahnhof",
+			"stopIndex": 1,
+			"distanceInMeters": 796.5743408203125,
+			"groupName": "Nordpark Busbahnhof",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 15102.8544921875,
+	"travelTimeMinutes": 33,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

@@ -1,0 +1,208 @@
+﻿{
+	"line": "M4",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:02:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 14,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Gymnasium",
+			"stopIndex": 6,
+			"distanceInMeters": 258.57781982421875,
+			"groupName": "Erkelenz Gymnasium",
+			"travelTimeMinutes": 1,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bauxhof",
+			"stopIndex": 6,
+			"distanceInMeters": 287.02822875976562,
+			"groupName": "Erkelenz Bauxhof",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hoogenhof",
+			"stopIndex": 7,
+			"distanceInMeters": 259.57586669921875,
+			"groupName": "Erkelenz Hoogenhof",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oidtmannhof",
+			"stopIndex": 9,
+			"distanceInMeters": 495.16302490234375,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Antwerpener Straße",
+			"stopIndex": 6,
+			"distanceInMeters": 326.12939453125,
+			"groupName": "Erkelenz Antwerpener Straße",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 7,
+			"distanceInMeters": 241.60417175292969,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 857.7073974609375,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Burg",
+			"stopIndex": 7,
+			"distanceInMeters": 813.30352783203125,
+			"groupName": "Erkelenz Burg",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oerather Mühle",
+			"stopIndex": 5,
+			"distanceInMeters": 596.56744384765625,
+			"groupName": "Erkelenz Oerather Mühle",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Grambusch",
+			"stopIndex": 8,
+			"distanceInMeters": 2174.46142578125,
+			"groupName": "Abzw. Grambusch",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Holtum Spielplatz",
+			"stopIndex": 3,
+			"distanceInMeters": 1812.79248046875,
+			"groupName": "Holtum Spielplatz",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 5,
+			"distanceInMeters": 3552.217041015625,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 24,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 1,
+			"distanceInMeters": 372.92520141601562,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 3,
+			"distanceInMeters": 682.043212890625,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Post",
+			"stopIndex": 2,
+			"distanceInMeters": 1192.973876953125,
+			"groupName": "Wegberg Post",
+			"travelTimeMinutes": 31,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 6,
+			"distanceInMeters": 261.3160400390625,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnübergang",
+			"stopIndex": 2,
+			"distanceInMeters": 803.00396728515625,
+			"groupName": "Wegberg Bahnübergang",
+			"travelTimeMinutes": 35,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Große Riet",
+			"stopIndex": 1,
+			"distanceInMeters": 768.42742919921875,
+			"groupName": "Wegberg Große Riet",
+			"travelTimeMinutes": 37,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 15755.8173828125,
+	"travelTimeMinutes": 37,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

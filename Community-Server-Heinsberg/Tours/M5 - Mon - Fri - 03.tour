@@ -1,0 +1,38 @@
+﻿{
+	"name": "03",
+	"line": "M5",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M5",
+			"slotId": 4
+		},
+		{
+			"line": "M5",
+			"slotId": 55
+		},
+		{
+			"line": "M5",
+			"slotId": 8
+		},
+		{
+			"line": "M6",
+			"slotId": 61
+		},
+		{
+			"line": "M7",
+			"slotId": 14
+		}
+	],
+	"fleetVehicleId": "1621"
+}

@@ -1,0 +1,198 @@
+﻿{
+	"line": "M8",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:07:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "04",
+	"routeStops": [
+		{
+			"stopName": "Lövenich Schule",
+			"stopIndex": 6,
+			"distanceInMeters": 0,
+			"groupName": "Lövenich Schule",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Post",
+			"stopIndex": 9,
+			"distanceInMeters": 41933.16796875,
+			"groupName": "Lövenich Post",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Bruchstr",
+			"stopIndex": 7,
+			"distanceInMeters": 41504.375,
+			"groupName": "Lövenich Bruchstr",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wahnenbusch",
+			"stopIndex": 7,
+			"distanceInMeters": 249784.828125,
+			"groupName": "Wahnenbusch",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 8,
+			"distanceInMeters": 71053.390625,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 6,
+			"distanceInMeters": 101493.8515625,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 4,
+			"distanceInMeters": 74341.6484375,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 7,
+			"distanceInMeters": 42388.84375,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 8,
+			"distanceInMeters": 160837.359375,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 7,
+			"distanceInMeters": 73909.984375,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 8,
+			"distanceInMeters": 96180.015625,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 21,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Burg",
+			"stopIndex": 7,
+			"distanceInMeters": 86644.5,
+			"groupName": "Erkelenz Burg",
+			"travelTimeMinutes": 23,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oerather Mühle",
+			"stopIndex": 5,
+			"distanceInMeters": 77264.671875,
+			"groupName": "Erkelenz Oerather Mühle",
+			"travelTimeMinutes": 25,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Grambusch",
+			"stopIndex": 8,
+			"distanceInMeters": 231785.0625,
+			"groupName": "Abzw. Grambusch",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Uevekoven Gartenweg",
+			"stopIndex": 4,
+			"distanceInMeters": 181677.921875,
+			"groupName": "Uevekoven Gartenweg",
+			"travelTimeMinutes": 30,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Uevekoven Luehweg",
+			"stopIndex": 7,
+			"distanceInMeters": 44843.21484375,
+			"groupName": "Uevekoven Luehweg",
+			"travelTimeMinutes": 31,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 1,
+			"distanceInMeters": 147334.25,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 34,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 5,
+			"distanceInMeters": 88569.0234375,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 36,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 1811546.125,
+	"travelTimeMinutes": 36,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

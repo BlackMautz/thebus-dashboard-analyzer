@@ -1,0 +1,108 @@
+﻿{
+	"line": "SB81",
+	"forward": true,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Rheindahlen\r\nHilderather Straße",
+	"routeName": "01",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 8,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 2,
+			"distanceInMeters": 1528.0284423828125,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 6,
+			"distanceInMeters": 607.99884033203125,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 5,
+			"distanceInMeters": 658.7767333984375,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 5,
+			"distanceInMeters": 2062.087158203125,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schönhausen",
+			"stopIndex": 4,
+			"distanceInMeters": 582.39691162109375,
+			"groupName": "Abzw. Schönhausen",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schriefersmühle",
+			"stopIndex": 3,
+			"distanceInMeters": 2467.388916015625,
+			"groupName": "Schriefersmühle",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 4,
+			"distanceInMeters": 1068.819091796875,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 11,
+			"distanceInMeters": 864.2510986328125,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 9839.748046875,
+	"travelTimeMinutes": 18,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

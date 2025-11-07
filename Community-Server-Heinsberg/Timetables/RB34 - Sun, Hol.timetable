@@ -1,0 +1,15 @@
+﻿{
+	"line": "RB34",
+	"conditions":
+	{
+		"monday": false,
+		"tuesday": false,
+		"wednesday": false,
+		"thursday": false,
+		"friday": false,
+		"saturday": false,
+		"sunday": true,
+		"holiday": true
+	},
+	"routes": []
+}

@@ -1,0 +1,10 @@
+﻿{
+	"name": "RB34",
+	"displayName": "None",
+	"nameId": 1,
+	"breakStops": [],
+	"depotStopGroup": "Nordpark Busbahnhof",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

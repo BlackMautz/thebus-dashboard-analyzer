@@ -1,0 +1,268 @@
+﻿{
+	"line": "017",
+	"forward": false,
+	"note": "Standard ohne Nordpark",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:12:00.000000000",
+	"endStopTextOverwrite": "Mönchengladbach\r\nLilienthalstraße",
+	"routeName": "08",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 3,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Markusstraße",
+			"stopIndex": 4,
+			"distanceInMeters": 664.4373779296875,
+			"groupName": "Wegberg Markusstraße",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Echter Straße",
+			"stopIndex": 2,
+			"distanceInMeters": 308.99441528320312,
+			"groupName": "Wegberg Echter Straße",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Begegnungszentrum",
+			"stopIndex": 6,
+			"distanceInMeters": 286.44580078125,
+			"groupName": "Wegberg Begegnungszentrum",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Gerichhausen",
+			"stopIndex": 8,
+			"distanceInMeters": 473.15911865234375,
+			"groupName": "Wegberg Gerichhausen",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Lindenstraße",
+			"stopIndex": 3,
+			"distanceInMeters": 101.3101806640625,
+			"groupName": "Wegberg Lindenstraße",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Kiefernweg",
+			"stopIndex": 3,
+			"distanceInMeters": 412.1065673828125,
+			"groupName": "Wegberg Kiefernweg",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "beeckerwald",
+			"stopIndex": 2,
+			"distanceInMeters": 349.185546875,
+			"groupName": "beeckerwald",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck Am Grüngürtel",
+			"stopIndex": 2,
+			"distanceInMeters": 237.38619995117188,
+			"groupName": "Beeck Am Grüngürtel",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck im Maggenfeld",
+			"stopIndex": 6,
+			"distanceInMeters": 554.378173828125,
+			"groupName": "Beeck im Maggenfeld",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck am Friedhof",
+			"stopIndex": 7,
+			"distanceInMeters": 540.4974365234375,
+			"groupName": "Beeck am Friedhof",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Moorshoven Landstr.",
+			"stopIndex": 9,
+			"distanceInMeters": 704.14898681640625,
+			"groupName": "Moorshoven Landstr.",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kipshoven Kieswerk",
+			"stopIndex": 4,
+			"distanceInMeters": 470.05810546875,
+			"groupName": "Kipshoven Kieswerk",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schriefersmühle",
+			"stopIndex": 3,
+			"distanceInMeters": 1501.935791015625,
+			"groupName": "Schriefersmühle",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schriefers",
+			"stopIndex": 3,
+			"distanceInMeters": 314.87045288085938,
+			"groupName": "Abzw. Schriefers",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 4,
+			"distanceInMeters": 754.98089599609375,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 11,
+			"distanceInMeters": 862.648681640625,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Industriehof",
+			"stopIndex": 3,
+			"distanceInMeters": 456.93890380859375,
+			"groupName": "Industriehof",
+			"travelTimeMinutes": 21,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 5,
+			"distanceInMeters": 244.8714599609375,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "vogtsgarten",
+			"stopIndex": 5,
+			"distanceInMeters": 395.52676391601562,
+			"groupName": "vogtsgarten",
+			"travelTimeMinutes": 23,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Hohe Straße",
+			"stopIndex": 6,
+			"distanceInMeters": 185.17933654785156,
+			"groupName": "Hohe Straße",
+			"travelTimeMinutes": 24,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kothausen",
+			"stopIndex": 8,
+			"distanceInMeters": 890.17510986328125,
+			"groupName": "kothausen",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "dorthausen",
+			"stopIndex": 7,
+			"distanceInMeters": 695.90777587890625,
+			"groupName": "dorthausen",
+			"travelTimeMinutes": 27,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Dahlener Heide",
+			"stopIndex": 4,
+			"distanceInMeters": 548.36956787109375,
+			"groupName": "Dahlener Heide",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lilienthalstraße",
+			"stopIndex": 1,
+			"distanceInMeters": 118237.515625,
+			"groupName": "Lilienthalstraße",
+			"travelTimeMinutes": 30,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 130191.03125,
+	"travelTimeMinutes": 30,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

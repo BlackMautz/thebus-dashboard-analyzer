@@ -1,0 +1,228 @@
+﻿{
+	"line": "418",
+	"forward": false,
+	"note": "11:50",
+	"breakStopsGroupName": "Pause Erkelenz Bahnhof",
+	"travelTimeFromBreakStop": "+00000000.00:08:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Erkelenz\r\nBahnhof",
+	"routeName": "14",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 5,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 505.2568359375,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 4,
+			"distanceInMeters": 400.9727783203125,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Haus St. Georg",
+			"stopIndex": 1,
+			"distanceInMeters": 1697.74072265625,
+			"groupName": "Watern Haus St. Georg",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Bischofsmühle",
+			"stopIndex": 2,
+			"distanceInMeters": 544.38360595703125,
+			"groupName": "Watern Bischofsmühle",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroicher Mühle",
+			"stopIndex": 25,
+			"distanceInMeters": 1455.85498046875,
+			"groupName": "Tüschenbroicher Mühle",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroich Schule",
+			"stopIndex": 32,
+			"distanceInMeters": 533.10357666015625,
+			"groupName": "Tüschenbroich Schule",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wildenrath Gewerbegebiet.",
+			"stopIndex": 13,
+			"distanceInMeters": 2675.683349609375,
+			"groupName": "Wildenrath Gewerbegebiet.",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wildenrath DAST GmbH.",
+			"stopIndex": 24,
+			"distanceInMeters": 292.64004516601562,
+			"groupName": "Wildenrath DAST GmbH.",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wildenrath Visitors' Center.",
+			"stopIndex": 14,
+			"distanceInMeters": 294.23297119140625,
+			"groupName": "Wildenrath Visitors' Center.",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "geneiken",
+			"stopIndex": 11,
+			"distanceInMeters": 3313.444580078125,
+			"groupName": "geneiken",
+			"travelTimeMinutes": 24,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Geneiken Dyker Str.",
+			"stopIndex": 11,
+			"distanceInMeters": 673.93609619140625,
+			"groupName": "Geneiken Dyker Str.",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schwanenberg Schule",
+			"stopIndex": 11,
+			"distanceInMeters": 1111.8360595703125,
+			"groupName": "Schwanenberg Schule",
+			"travelTimeMinutes": 27,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "grambusch",
+			"stopIndex": 23,
+			"distanceInMeters": 1062.2847900390625,
+			"groupName": "grambusch",
+			"travelTimeMinutes": 29,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Isengraben.",
+			"stopIndex": 35,
+			"distanceInMeters": 1640.532470703125,
+			"groupName": "Isengraben.",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Flassenberg.",
+			"stopIndex": 31,
+			"distanceInMeters": 220.06776428222656,
+			"groupName": "Flassenberg.",
+			"travelTimeMinutes": 34,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kehrbusch.",
+			"stopIndex": 30,
+			"distanceInMeters": 727.940673828125,
+			"groupName": "Kehrbusch.",
+			"travelTimeMinutes": 35,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Grambusch",
+			"stopIndex": 4,
+			"distanceInMeters": 446.7379150390625,
+			"groupName": "Abzw. Grambusch",
+			"travelTimeMinutes": 36,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oerather Mühle",
+			"stopIndex": 4,
+			"distanceInMeters": 2200.0712890625,
+			"groupName": "Erkelenz Oerather Mühle",
+			"travelTimeMinutes": 39,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Burg",
+			"stopIndex": 0,
+			"distanceInMeters": 5238.3916015625,
+			"groupName": "Erkelenz Burg",
+			"travelTimeMinutes": 41,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 0,
+			"distanceInMeters": 806.85113525390625,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 43,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 25841.96484375,
+	"travelTimeMinutes": 43,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

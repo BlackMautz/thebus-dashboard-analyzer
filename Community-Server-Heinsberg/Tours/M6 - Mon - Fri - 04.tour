@@ -1,0 +1,50 @@
+﻿{
+	"name": "04",
+	"line": "M6",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M6",
+			"slotId": 27
+		},
+		{
+			"line": "M6",
+			"slotId": 79
+		},
+		{
+			"line": "M6",
+			"slotId": 33
+		},
+		{
+			"line": "M6",
+			"slotId": 85
+		},
+		{
+			"line": "M6",
+			"slotId": 39
+		},
+		{
+			"line": "M6",
+			"slotId": 91
+		},
+		{
+			"line": "M6",
+			"slotId": 45
+		},
+		{
+			"line": "M6",
+			"slotId": 97
+		}
+	],
+	"fleetVehicleId": "1901"
+}

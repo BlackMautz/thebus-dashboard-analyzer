@@ -1,0 +1,68 @@
+﻿{
+	"line": "RB34",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Schienenersatzverkehr\r\nWegberg",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Lilienthalstraße",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Lilienthalstraße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Nordpark Busbahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 123361.78125,
+			"groupName": "Nordpark Busbahnhof",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 1,
+			"distanceInMeters": 405619.78125,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 9,
+			"distanceInMeters": 124754.9375,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 7,
+			"distanceInMeters": 672888.4375,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 1326625,
+	"travelTimeMinutes": 19,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Bus"
+}

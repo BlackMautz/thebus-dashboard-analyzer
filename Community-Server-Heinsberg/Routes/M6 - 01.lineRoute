@@ -1,0 +1,248 @@
+﻿{
+	"line": "M6",
+	"forward": true,
+	"note": "",
+	"breakStopsGroupName": "Pause Erkelenz Bahnhof",
+	"travelTimeFromBreakStop": "+00000000.00:08:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "01",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Gerichhausen",
+			"stopIndex": 3,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Gerichhausen",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Echter Straße",
+			"stopIndex": 1,
+			"distanceInMeters": 632.78936767578125,
+			"groupName": "Wegberg Echter Straße",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Markusstraße",
+			"stopIndex": 6,
+			"distanceInMeters": 335.36026000976562,
+			"groupName": "Wegberg Markusstraße",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 3,
+			"distanceInMeters": 764.4345703125,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Westend",
+			"stopIndex": 11,
+			"distanceInMeters": 400.1787109375,
+			"groupName": "Wegberg Westend",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Haus St. Georg",
+			"stopIndex": 1,
+			"distanceInMeters": 662.0001220703125,
+			"groupName": "Watern Haus St. Georg",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Bischofsmühle",
+			"stopIndex": 2,
+			"distanceInMeters": 550.31561279296875,
+			"groupName": "Watern Bischofsmühle",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroicher Mühle",
+			"stopIndex": 25,
+			"distanceInMeters": 1455.628662109375,
+			"groupName": "Tüschenbroicher Mühle",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroich Schule",
+			"stopIndex": 32,
+			"distanceInMeters": 532.18408203125,
+			"groupName": "Tüschenbroich Schule",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "geneiken",
+			"stopIndex": 11,
+			"distanceInMeters": 1594.2177734375,
+			"groupName": "geneiken",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Geneiken Dyker Str.",
+			"stopIndex": 11,
+			"distanceInMeters": 673.91265869140625,
+			"groupName": "Geneiken Dyker Str.",
+			"travelTimeMinutes": 21,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schwanenberg Schule",
+			"stopIndex": 11,
+			"distanceInMeters": 1111.37060546875,
+			"groupName": "Schwanenberg Schule",
+			"travelTimeMinutes": 23,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "grambusch",
+			"stopIndex": 23,
+			"distanceInMeters": 1062.5145263671875,
+			"groupName": "grambusch",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Grambusch",
+			"stopIndex": 4,
+			"distanceInMeters": 556.19012451171875,
+			"groupName": "Abzw. Grambusch",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Borschemich Kapelle",
+			"stopIndex": 2,
+			"distanceInMeters": 3854.583251953125,
+			"groupName": "Borschemich Kapelle",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mennekrath",
+			"stopIndex": 2,
+			"distanceInMeters": 883.700927734375,
+			"groupName": "Mennekrath",
+			"travelTimeMinutes": 35,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 2195.5615234375,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 38,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 0,
+			"distanceInMeters": 1440.152587890625,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 41,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 14,
+			"distanceInMeters": 664.33746337890625,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 43,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oidtmannhof",
+			"stopIndex": 6,
+			"distanceInMeters": 556.57659912109375,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 45,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Antwerpener Straße",
+			"stopIndex": 6,
+			"distanceInMeters": 328.79550170898438,
+			"groupName": "Erkelenz Antwerpener Straße",
+			"travelTimeMinutes": 46,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 7,
+			"distanceInMeters": 241.60421752929688,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 47,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 1,
+			"distanceInMeters": 955.37847900390625,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 49,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 21451.787109375,
+	"travelTimeMinutes": 49,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

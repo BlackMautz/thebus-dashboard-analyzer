@@ -1,0 +1,70 @@
+﻿{
+	"name": "01",
+	"line": "412",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "412",
+			"slotId": 23
+		},
+		{
+			"line": "412",
+			"slotId": 1
+		},
+		{
+			"line": "412",
+			"slotId": 25
+		},
+		{
+			"line": "M8",
+			"slotId": 3
+		},
+		{
+			"line": "EK4",
+			"slotId": 4
+		},
+		{
+			"line": "EK4",
+			"slotId": 43
+		},
+		{
+			"line": "412",
+			"slotId": 5
+		},
+		{
+			"line": "412",
+			"slotId": 29
+		},
+		{
+			"line": "M1",
+			"slotId": 71
+		},
+		{
+			"line": "M1",
+			"slotId": 22
+		},
+		{
+			"line": "SB8",
+			"slotId": 4
+		},
+		{
+			"line": "412",
+			"slotId": 10
+		},
+		{
+			"line": "412",
+			"slotId": 34
+		}
+	],
+	"fleetVehicleId": "1825"
+}

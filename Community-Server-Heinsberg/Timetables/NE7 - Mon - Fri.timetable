@@ -1,0 +1,126 @@
+﻿{
+	"line": "NE7",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"routes": [
+		{
+			"iD": 1,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 0,
+				"minute": 17
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 0,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 0,
+				"minute": 29
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 2,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 1,
+				"minute": 17
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 6,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 1,
+				"minute": 29
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 3,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 2,
+				"minute": 17
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 7,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 2,
+				"minute": 29
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 4,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 3,
+				"minute": 17
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 8,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 3,
+				"minute": 29
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 5,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 4,
+				"minute": 17
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 9,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 4,
+				"minute": 29
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		}
+	]
+}

@@ -1,0 +1,621 @@
+﻿{
+	"line": "412",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"routes": [
+		{
+			"iD": 41,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 5,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 23,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 5,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 0,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 7
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 24,
+			"route": "11",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 27
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 42,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 1,
+			"route": "06",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 42
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 17,
+			"route": "03",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 25,
+			"route": "12",
+			"startTime":
+			{
+				"hour": 7,
+				"minute": 1
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 2,
+			"route": "07",
+			"startTime":
+			{
+				"hour": 7,
+				"minute": 12
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 43,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 7,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 3,
+			"route": "08",
+			"startTime":
+			{
+				"hour": 7,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 26,
+			"route": "12",
+			"startTime":
+			{
+				"hour": 8,
+				"minute": 1
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 27,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 8,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 44,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 8,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 4,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 8,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 28,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 9,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 45,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 9,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 5,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 9,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 46,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 10,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 29,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 10,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 6,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 10,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 7,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 11,
+				"minute": 25
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 47,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 11,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 18,
+			"route": "03",
+			"startTime":
+			{
+				"hour": 11,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 30,
+			"route": "13",
+			"startTime":
+			{
+				"hour": 11,
+				"minute": 47
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 8,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 12,
+				"minute": 10
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 48,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 12,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 19,
+			"route": "03",
+			"startTime":
+			{
+				"hour": 12,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 9,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 12,
+				"minute": 53
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 31,
+			"route": "13",
+			"startTime":
+			{
+				"hour": 13,
+				"minute": 0
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 49,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 13,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 32,
+			"route": "13",
+			"startTime":
+			{
+				"hour": 13,
+				"minute": 41
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 20,
+			"route": "03",
+			"startTime":
+			{
+				"hour": 13,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 10,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 13,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 33,
+			"route": "14",
+			"startTime":
+			{
+				"hour": 14,
+				"minute": 8
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 11,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 14,
+				"minute": 28
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 34,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 14,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 50,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 14,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 21,
+			"route": "03",
+			"startTime":
+			{
+				"hour": 14,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 12,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 15,
+				"minute": 20
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 35,
+			"route": "13",
+			"startTime":
+			{
+				"hour": 15,
+				"minute": 23
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 51,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 15,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 22,
+			"route": "03",
+			"startTime":
+			{
+				"hour": 15,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 36,
+			"route": "14",
+			"startTime":
+			{
+				"hour": 15,
+				"minute": 46
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 13,
+			"route": "09",
+			"startTime":
+			{
+				"hour": 16,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 37,
+			"route": "13",
+			"startTime":
+			{
+				"hour": 16,
+				"minute": 10
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 52,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 16,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 14,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 16,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 38,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 16,
+				"minute": 55
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 39,
+			"route": "13",
+			"startTime":
+			{
+				"hour": 17,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 53,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 17,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 15,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 17,
+				"minute": 45
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 54,
+			"route": "04",
+			"startTime":
+			{
+				"hour": 18,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": -1
+		},
+		{
+			"iD": 40,
+			"route": "10",
+			"startTime":
+			{
+				"hour": 18,
+				"minute": 33
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 1
+		},
+		{
+			"iD": 16,
+			"route": "05",
+			"startTime":
+			{
+				"hour": 18,
+				"minute": 55
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		}
+	]
+}

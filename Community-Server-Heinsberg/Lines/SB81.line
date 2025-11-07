@@ -1,0 +1,31 @@
+﻿{
+	"name": "SB81",
+	"displayName": "None",
+	"nameId": 981,
+	"breakStops": [
+		{
+			"stopName": "Pause Erkelenz Bahnhof",
+			"stopIndex": 6,
+			"distanceInMeters": 0,
+			"groupName": "Pause Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

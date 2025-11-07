@@ -1,0 +1,118 @@
+﻿{
+	"line": "017",
+	"forward": true,
+	"note": "HDS ohne nordpark",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Rheindahlen\r\nHilderather Straße",
+	"routeName": "05",
+	"routeStops": [
+		{
+			"stopName": "Lilienthalstraße",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Lilienthalstraße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Nordpark",
+			"stopIndex": 6,
+			"distanceInMeters": 1777.945068359375,
+			"groupName": "Am Nordpark",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Dahlener Heide",
+			"stopIndex": 9,
+			"distanceInMeters": 608.904541015625,
+			"groupName": "Dahlener Heide",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "dorthausen",
+			"stopIndex": 2,
+			"distanceInMeters": 641.7158203125,
+			"groupName": "dorthausen",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kothausen",
+			"stopIndex": 5,
+			"distanceInMeters": 706.62615966796875,
+			"groupName": "kothausen",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Hohe Straße",
+			"stopIndex": 1,
+			"distanceInMeters": 749.79278564453125,
+			"groupName": "Hohe Straße",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "vogtsgarten",
+			"stopIndex": 8,
+			"distanceInMeters": 320.42938232421875,
+			"groupName": "vogtsgarten",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 1,
+			"distanceInMeters": 339.6397705078125,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Industriehof",
+			"stopIndex": 5,
+			"distanceInMeters": 239.46759033203125,
+			"groupName": "Industriehof",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 484.25955200195312,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 5868.78076171875,
+	"travelTimeMinutes": 13,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

@@ -1,0 +1,278 @@
+﻿{
+	"line": "418",
+	"forward": true,
+	"note": "7:05",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:02:00.000000000",
+	"endStopTextOverwrite": "Wegberg\r\nGroße Riet",
+	"routeName": "04",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 1,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 5,
+			"distanceInMeters": 2935.638916015625,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz  Oidtmannhof",
+			"stopIndex": 13,
+			"distanceInMeters": 501.80233764648438,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hoogenhof",
+			"stopIndex": 2,
+			"distanceInMeters": 451.37783813476562,
+			"groupName": "Erkelenz Hoogenhof",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Gymnasium",
+			"stopIndex": 2,
+			"distanceInMeters": 572.547119140625,
+			"groupName": "Erkelenz Gymnasium",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Oerather Mühle",
+			"stopIndex": 5,
+			"distanceInMeters": 767.8477783203125,
+			"groupName": "Erkelenz Oerather Mühle",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Grambusch",
+			"stopIndex": 11,
+			"distanceInMeters": 4597.42919921875,
+			"groupName": "Abzw. Grambusch",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "grambusch",
+			"stopIndex": 11,
+			"distanceInMeters": 436.64566040039062,
+			"groupName": "grambusch",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schwanenberg Schule",
+			"stopIndex": 11,
+			"distanceInMeters": 1009.7821655273438,
+			"groupName": "Schwanenberg Schule",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Geneiken Dyker Str.",
+			"stopIndex": 14,
+			"distanceInMeters": 1174.528076171875,
+			"groupName": "Geneiken Dyker Str.",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "geneiken",
+			"stopIndex": 12,
+			"distanceInMeters": 639.6719970703125,
+			"groupName": "geneiken",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wildenrath Gewerbegebiet",
+			"stopIndex": 13,
+			"distanceInMeters": 3484.8974609375,
+			"groupName": "Wildenrath Gewerbegebiet",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wildenrath DAST GmbH",
+			"stopIndex": 24,
+			"distanceInMeters": 289.67831420898438,
+			"groupName": "Wildenrath DAST GmbH",
+			"travelTimeMinutes": 27,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wildenrath Visitors' Center",
+			"stopIndex": 14,
+			"distanceInMeters": 293.26904296875,
+			"groupName": "Wildenrath Visitors' Center",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroich Schule",
+			"stopIndex": 42,
+			"distanceInMeters": 2546.050048828125,
+			"groupName": "Tüschenbroich Schule",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tüschenbroicher Mühle",
+			"stopIndex": 12,
+			"distanceInMeters": 474.55874633789062,
+			"groupName": "Tüschenbroicher Mühle",
+			"travelTimeMinutes": 34,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Bischofsmühle",
+			"stopIndex": 3,
+			"distanceInMeters": 1495.5523681640625,
+			"groupName": "Watern Bischofsmühle",
+			"travelTimeMinutes": 36,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Watern Haus St. Georg",
+			"stopIndex": 2,
+			"distanceInMeters": 534.1837158203125,
+			"groupName": "Watern Haus St. Georg",
+			"travelTimeMinutes": 37,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 0,
+			"distanceInMeters": 1322.754638671875,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 41,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 1,
+			"distanceInMeters": 321.58230590820312,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 42,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 2,
+			"distanceInMeters": 3927.925537109375,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 44,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Markusstraße",
+			"stopIndex": 4,
+			"distanceInMeters": 628.09222412109375,
+			"groupName": "Wegberg Markusstraße",
+			"travelTimeMinutes": 47,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Post",
+			"stopIndex": 2,
+			"distanceInMeters": 513.757080078125,
+			"groupName": "Wegberg Post",
+			"travelTimeMinutes": 48,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 4,
+			"distanceInMeters": 258.29803466796875,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 49,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnübergang",
+			"stopIndex": 2,
+			"distanceInMeters": 806.13226318359375,
+			"groupName": "Wegberg Bahnübergang",
+			"travelTimeMinutes": 51,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Große Riet",
+			"stopIndex": 1,
+			"distanceInMeters": 770.7601318359375,
+			"groupName": "Wegberg Große Riet",
+			"travelTimeMinutes": 52,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 30754.763671875,
+	"travelTimeMinutes": 52,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

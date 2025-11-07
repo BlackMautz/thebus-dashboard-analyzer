@@ -1,0 +1,21 @@
+﻿{
+	"name": "NE7",
+	"displayName": "None",
+	"nameId": 407,
+	"breakStops": [
+		{
+			"stopName": "Erkelenz Abstellplatz",
+			"stopIndex": 22,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Abstellplatz",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

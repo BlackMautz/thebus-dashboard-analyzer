@@ -1,0 +1,134 @@
+﻿{
+	"name": "01",
+	"line": "M3",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M3",
+			"slotId": 1
+		},
+		{
+			"line": "M3",
+			"slotId": 54
+		},
+		{
+			"line": "M3",
+			"slotId": 4
+		},
+		{
+			"line": "M3",
+			"slotId": 57
+		},
+		{
+			"line": "M3",
+			"slotId": 7
+		},
+		{
+			"line": "M3",
+			"slotId": 60
+		},
+		{
+			"line": "M4",
+			"slotId": 11
+		},
+		{
+			"line": "M4",
+			"slotId": 63
+		},
+		{
+			"line": "M4",
+			"slotId": 15
+		},
+		{
+			"line": "M3",
+			"slotId": 20
+		},
+		{
+			"line": "M3",
+			"slotId": 73
+		},
+		{
+			"line": "M3",
+			"slotId": 23
+		},
+		{
+			"line": "M3",
+			"slotId": 77
+		},
+		{
+			"line": "M3",
+			"slotId": 27
+		},
+		{
+			"line": "M3",
+			"slotId": 81
+		},
+		{
+			"line": "M3",
+			"slotId": 31
+		},
+		{
+			"line": "M3",
+			"slotId": 85
+		},
+		{
+			"line": "M3",
+			"slotId": 35
+		},
+		{
+			"line": "M3",
+			"slotId": 89
+		},
+		{
+			"line": "M3",
+			"slotId": 39
+		},
+		{
+			"line": "M3",
+			"slotId": 93
+		},
+		{
+			"line": "M3",
+			"slotId": 43
+		},
+		{
+			"line": "M3",
+			"slotId": 45
+		},
+		{
+			"line": "M3",
+			"slotId": 99
+		},
+		{
+			"line": "M3",
+			"slotId": 48
+		},
+		{
+			"line": "M3",
+			"slotId": 101
+		},
+		{
+			"line": "M3",
+			"slotId": 50
+		},
+		{
+			"line": "M3",
+			"slotId": 103
+		},
+		{
+			"line": "M3",
+			"slotId": 52
+		}
+	],
+	"fleetVehicleId": "1121"
+}

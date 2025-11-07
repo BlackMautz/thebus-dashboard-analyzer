@@ -1,0 +1,158 @@
+﻿{
+	"line": "EK2",
+	"forward": false,
+	"note": "Normal bis Bahnhof.",
+	"breakStopsGroupName": "Pause Erkelenz Bahnhof",
+	"travelTimeFromBreakStop": "+00000000.00:11:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Erkelenz\r\nBahnhof",
+	"routeName": "11",
+	"routeStops": [
+		{
+			"stopName": "Katzem Kirche",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Katzem Kirche",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Schule",
+			"stopIndex": 4,
+			"distanceInMeters": 246.03361511230469,
+			"groupName": "Katzem Schule",
+			"travelTimeMinutes": 1,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Kückhoven",
+			"stopIndex": 4,
+			"distanceInMeters": 165.94337463378906,
+			"groupName": "Abzw. Kückhoven",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Hötzelenberg",
+			"stopIndex": 3,
+			"distanceInMeters": 438.8773193359375,
+			"groupName": "Katzem Hötzelenberg",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Markt",
+			"stopIndex": 4,
+			"distanceInMeters": 1205.424560546875,
+			"groupName": "Lövenich Markt",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Post",
+			"stopIndex": 9,
+			"distanceInMeters": 1399.1976318359375,
+			"groupName": "Lövenich Post",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Bruchstr",
+			"stopIndex": 7,
+			"distanceInMeters": 347.8846435546875,
+			"groupName": "Lövenich Bruchstr",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wahnenbusch",
+			"stopIndex": 7,
+			"distanceInMeters": 2275.364501953125,
+			"groupName": "Wahnenbusch",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 8,
+			"distanceInMeters": 620.4476318359375,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 6,
+			"distanceInMeters": 896.19342041015625,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 4,
+			"distanceInMeters": 683.75848388671875,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 7,
+			"distanceInMeters": 299.14996337890625,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Agentur für Arbeit",
+			"stopIndex": 4,
+			"distanceInMeters": 458.16009521484375,
+			"groupName": "Erkelenz Agentur für Arbeit",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 4,
+			"distanceInMeters": 544.11968994140625,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 21,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 9580.5556640625,
+	"travelTimeMinutes": 21,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

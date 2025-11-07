@@ -1,0 +1,31 @@
+﻿{
+	"name": "NE5",
+	"displayName": "None",
+	"nameId": 405,
+	"breakStops": [
+		{
+			"stopName": "Erkelenz Abstellplatz",
+			"stopIndex": 3,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Abstellplatz",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 22,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

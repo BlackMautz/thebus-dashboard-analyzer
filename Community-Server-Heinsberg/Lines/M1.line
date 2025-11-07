@@ -1,0 +1,21 @@
+﻿{
+	"name": "M1",
+	"displayName": "None",
+	"nameId": 801,
+	"breakStops": [
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 22,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Nordpark Busbahnhof",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

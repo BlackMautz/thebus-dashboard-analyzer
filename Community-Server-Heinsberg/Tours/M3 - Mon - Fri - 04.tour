@@ -1,0 +1,34 @@
+﻿{
+	"name": "04",
+	"line": "M3",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M3",
+			"slotId": 8
+		},
+		{
+			"line": "M3",
+			"slotId": 61
+		},
+		{
+			"line": "M3",
+			"slotId": 11
+		},
+		{
+			"line": "M3",
+			"slotId": 64
+		}
+	],
+	"fleetVehicleId": "1601"
+}

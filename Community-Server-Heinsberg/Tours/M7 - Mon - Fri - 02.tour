@@ -1,0 +1,102 @@
+﻿{
+	"name": "02",
+	"line": "M7",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M7",
+			"slotId": 0
+		},
+		{
+			"line": "M7",
+			"slotId": 52
+		},
+		{
+			"line": "M7",
+			"slotId": 4
+		},
+		{
+			"line": "M7",
+			"slotId": 56
+		},
+		{
+			"line": "M7",
+			"slotId": 8
+		},
+		{
+			"line": "M7",
+			"slotId": 61
+		},
+		{
+			"line": "M7",
+			"slotId": 13
+		},
+		{
+			"line": "M7",
+			"slotId": 65
+		},
+		{
+			"line": "M7",
+			"slotId": 22
+		},
+		{
+			"line": "M7",
+			"slotId": 74
+		},
+		{
+			"line": "M7",
+			"slotId": 26
+		},
+		{
+			"line": "M7",
+			"slotId": 78
+		},
+		{
+			"line": "M7",
+			"slotId": 30
+		},
+		{
+			"line": "M7",
+			"slotId": 82
+		},
+		{
+			"line": "M7",
+			"slotId": 34
+		},
+		{
+			"line": "M7",
+			"slotId": 86
+		},
+		{
+			"line": "M7",
+			"slotId": 38
+		},
+		{
+			"line": "M7",
+			"slotId": 90
+		},
+		{
+			"line": "M7",
+			"slotId": 43
+		},
+		{
+			"line": "M7",
+			"slotId": 95
+		},
+		{
+			"line": "M7",
+			"slotId": 48
+		}
+	],
+	"fleetVehicleId": "1521"
+}

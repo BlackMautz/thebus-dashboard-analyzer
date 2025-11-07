@@ -1,0 +1,1831 @@
+﻿{
+	"workshopItemData":
+	{
+		"name": "Multiplayer",
+		"assignedMapName": "wegberg",
+		"creatorName": "Jannis",
+		"steamWorkshopId": "0",
+		"creationDateTime": "2025.05.13-15.09.57",
+		"lastEditedDateTime": "2025.05.13-15.09.57"
+	},
+	"vehicles": [
+		{
+			"iD": "1001",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6051",
+			"repaint": "<scania12frauenwest>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1002",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6052",
+			"repaint": "/_Scania12mwest_/Content/ScaniaCW_12m_2D_West",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1021",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6053",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "display_1",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_2",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_3",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_4",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1022",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6054",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1101",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6059",
+			"repaint": "/_Scania12mwest_/Content/ScaniaCW_12m_2D_West",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1102",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6060",
+			"repaint": "/_Scania12mwest_/Content/ScaniaCW_12m_2D_West",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1121",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6061",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1122",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6062",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1123",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6063",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1201",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "HS WV 6064",
+			"repaint": "/_Scania12mwest_/Content/ScaniaCW_12m_2D_West",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1202",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6065",
+			"repaint": "/_Scania12mwest_/Content/ScaniaCW_12m_2D_West",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1203",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1203",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1205",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1205",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1206",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1206",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1207",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1207",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1209",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1209",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1211",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1211",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1212",
+			"type": "Scania_CitywideLF_12M2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YD 1212",
+			"repaint": "/_scania12mnewalt_/Content/ScaniaCW_12m_2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 12"
+		},
+		{
+			"iD": "1221",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6066",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1222",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6067",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1223",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6068",
+			"repaint": "/_scaniawestvar1_/Content/ScaniaCW_18m_3D_West_Var_1",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1261",
+			"type": "Scania_Citywide_18M",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "YG 1261",
+			"repaint": "/_scanianewalt_/Content/ScaniaCW_18m_3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Solaris Urbino III 18"
+		},
+		{
+			"iD": "1301",
+			"type": "MAN_LionsCityDD",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6069",
+			"repaint": "<MANDDwest>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "display_1",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_2",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_3",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_4",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": ""
+		},
+		{
+			"iD": "1302",
+			"type": "MAN_LionsCityDD",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6070",
+			"repaint": "<MANDDwest>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "display_1",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_2",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_3",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "display_4",
+					"selectedPartName": "TML Default Line Display",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": ""
+		},
+		{
+			"iD": "1401",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6075",
+			"repaint": "<citarobusfahrerwerbung>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "IntDisplay_2",
+					"selectedPartName": "MAN DD IntDisplay",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "IntDisplay_3",
+					"selectedPartName": "MAN DD IntDisplay",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1402",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6076",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1421",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6077",
+			"repaint": "<citarosolaranlagen>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1422",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6078",
+			"repaint": "<stromtarifwerbung>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1423",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6079",
+			"repaint": "<citarosolaranlagen>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1501",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6080",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1502",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6081",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1521",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6082",
+			"repaint": "<citarowerbung2015>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1522",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6083",
+			"repaint": "<citarowerbung2015>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1523",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6084",
+			"repaint": "<citarowerbung2015>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1601",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6092",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1602",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6093",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1603",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6094",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1605",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "MG-QS 1605",
+			"repaint": "/_solaris12mnew_/Content/Galaxis_Urban_12m_2D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1606",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 1606",
+			"repaint": "/_solaris12mnew_/Content/Galaxis_Urban_12m_2D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1607",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 1607",
+			"repaint": "/_solaris12mnew_/Content/Galaxis_Urban_12m_2D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1608",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 1608",
+			"repaint": "/_solaris12mnew_/Content/Galaxis_Urban_12m_2D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1609",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 1609",
+			"repaint": "/_solaris12mnew_/Content/Galaxis_Urban_12m_2D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1610",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 1610",
+			"repaint": "/_solaris12mnew_/Content/Galaxis_Urban_12m_2D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1621",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6095",
+			"repaint": "<solaris18mstromtarif>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1622",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6096",
+			"repaint": "<solarisvereine>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1623",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6097",
+			"repaint": "/_solaris18mwest_/Content/Galaxis_Urban_18m_3D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1661",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QG 1661",
+			"repaint": "/_solaris18mnew_/Content/Galaxis_Urban_18m_3D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1662",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QG 1662",
+			"repaint": "/_solaris18mnew_/Content/Galaxis_Urban_18m_3D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1663",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QG 1663",
+			"repaint": "/_solaris18mnew_/Content/Galaxis_Urban_18m_3D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1664",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QG 1664",
+			"repaint": "/_solaris18mnew_/Content/Galaxis_Urban_18m_3D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1665",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QG 1665",
+			"repaint": "/_solaris18mnew_/Content/Galaxis_Urban_18m_3D_NEW",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[NEW] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1701",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6101",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1702",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6102",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1703",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6103",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1704",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6104",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1705",
+			"type": "Solaris_Urbino_12m_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6105",
+			"repaint": "/_solaris12mwest_/Content/Galaxis_Urban_12m_2D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 12"
+		},
+		{
+			"iD": "1721",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6106",
+			"repaint": "/_solaris18mwest_/Content/Galaxis_Urban_18m_3D_WestVerkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1722",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6107",
+			"repaint": "<solarisvereine>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1723",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6108",
+			"repaint": "<solarisvereine>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1724",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6109",
+			"repaint": "<solarisvereine>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1725",
+			"type": "Solaris_Urbino_18m_3D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6110",
+			"repaint": "<solarisvereine>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "roof",
+					"selectedPartName": "Roof_Rail",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Solaris Urbino IV 18"
+		},
+		{
+			"iD": "1801",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6121",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1802",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6122",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [
+				{
+					"childActorName": "",
+					"slotName": "IntDisplay_2",
+					"selectedPartName": "MAN DD IntDisplay",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				},
+				{
+					"childActorName": "",
+					"slotName": "IntDisplay_3",
+					"selectedPartName": "MAN DD IntDisplay",
+					"partSettings":
+					{
+						"Rotation": "0.0"
+					},
+					"subPartSettings": [],
+					"partWorkshopId": "0",
+					"partWorkshopName": ""
+				}
+			],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1803",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6123",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1804",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6124",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1805",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "HS WV 6125",
+			"repaint": "<citaroavv24std2>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1821",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6126",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1822",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6127",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1823",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6128",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1824",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6129",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1825",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6130",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G"
+		},
+		{
+			"iD": "1901",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6131",
+			"repaint": "<citaroavv24std>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1902",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6132",
+			"repaint": "<citaro12mILK>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1903",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6133",
+			"repaint": "<citaro12mILK>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1904",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6134",
+			"repaint": "/_citaro12mwest_/Content/Mercedes-Benz_eCitaro_12m2D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1905",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6135",
+			"repaint": "<citaro12sparkasse>",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1921",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6136",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1922",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6137",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1923",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6138",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1924",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6139",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1925",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6140",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2"
+		},
+		{
+			"iD": "1963",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "XS 1963",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "1964",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "XS 1964",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "1965",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "XG 1965",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "1967",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "XG 1967",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "1968",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "XG 1968",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2001",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6141",
+			"repaint": "/_citaro12msb_/Content/Mercedes-Benz_eCitaro_12m2D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 SB"
+		},
+		{
+			"iD": "2002",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6142",
+			"repaint": "/_citaro12msb_/Content/Mercedes-Benz_eCitaro_12m2D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 SB"
+		},
+		{
+			"iD": "2003",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6143",
+			"repaint": "/_citaro12msb_/Content/Mercedes-Benz_eCitaro_12m2D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 SB"
+		},
+		{
+			"iD": "2004",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6144",
+			"repaint": "/_citaro12msb_/Content/Mercedes-Benz_eCitaro_12m2D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 SB"
+		},
+		{
+			"iD": "2005",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6145",
+			"repaint": "/_citaro12msb_/Content/Mercedes-Benz_eCitaro_12m2D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 SB"
+		},
+		{
+			"iD": "2006",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6152",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2007",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6153",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2008",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6154",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2009",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6155",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2010",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6156",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2011",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6157",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2012",
+			"type": "VDL_Citea_LLE_120_2D",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6158",
+			"repaint": "/_vdlwest_/Content/VDL_Citea_LLE_120_West_Verkehr",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] VDL Citea LLE"
+		},
+		{
+			"iD": "2021",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6146",
+			"repaint": "/_citaro18mSB_/Content/Mercedes-Benz_eCitaro_18m3D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G SB"
+		},
+		{
+			"iD": "2022",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6147",
+			"repaint": "/_citaro18mSB_/Content/Mercedes-Benz_eCitaro_18m3D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G SB"
+		},
+		{
+			"iD": "2023",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6148",
+			"repaint": "/_citaro18mSB_/Content/Mercedes-Benz_eCitaro_18m3D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G SB"
+		},
+		{
+			"iD": "2024",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6149",
+			"repaint": "/_citaro18mSB_/Content/Mercedes-Benz_eCitaro_18m3D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G SB"
+		},
+		{
+			"iD": "2025",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6150",
+			"repaint": "/_citaro18mSB_/Content/Mercedes-Benz_eCitaro_18m3D_SB",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes-Benz C2 G SB"
+		},
+		{
+			"iD": "2061",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 2061",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2062",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 2062",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2063",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 2063",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2064",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 2064",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2065",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 2065",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2066",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QS 2066",
+			"repaint": "/_citaro18mnewalt_/Content/Mercedes-Benz_eCitaro_18m3D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 G Hybrid"
+		},
+		{
+			"iD": "2102",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2102",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2103",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2103",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2104",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2104",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2105",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2105",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2106",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2106",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2107",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2107",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2108",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2108",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2109",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2109",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2110",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2110",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2111",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2111",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2112",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2112",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2113",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2113",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2114",
+			"type": "Mercedes-Benz_eCitaro_12m_2Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "QE 2114",
+			"repaint": "/_citaro12newalt_/Content/Mercedes-Benz_eCitaro_12m2D_NEW_Alt",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[NEW] Mercedes C2 Hybrid"
+		},
+		{
+			"iD": "2121",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6159",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes eCitaro"
+		},
+		{
+			"iD": "2122",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6160",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes eCitaro"
+		},
+		{
+			"iD": "2123",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6161",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[WEst] Mercedes eCitaro"
+		},
+		{
+			"iD": "2124",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6162",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes eCitaro"
+		},
+		{
+			"iD": "2125",
+			"type": "Mercedes-Benz_eCitaro_18m_3Doors",
+			"typeWorkshopId": "9223372036854775807",
+			"licensePlate": "WV 6163",
+			"repaint": "/_citaro18mwest_/Content/Mercedes-Benz_eCitaro_18m3D_Standard",
+			"repaintWorkshopId": "9223372036854775807",
+			"partSettings": [],
+			"comment": "[West] Mercedes eCitaro"
+		}
+	]
+}

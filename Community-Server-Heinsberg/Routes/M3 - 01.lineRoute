@@ -1,0 +1,168 @@
+﻿{
+	"line": "M3",
+	"forward": true,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:11:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "01",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Große Riet",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Große Riet",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnübergang",
+			"stopIndex": 1,
+			"distanceInMeters": 793.06524658203125,
+			"groupName": "Wegberg Bahnübergang",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Freiheider Straße",
+			"stopIndex": 3,
+			"distanceInMeters": 574.60931396484375,
+			"groupName": "Wegberg Freiheider Straße",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bahnhof",
+			"stopIndex": 3,
+			"distanceInMeters": 231.53448486328125,
+			"groupName": "Wegberg Bahnhof",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Post",
+			"stopIndex": 4,
+			"distanceInMeters": 207.37359619140625,
+			"groupName": "Wegberg Post",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 4,
+			"distanceInMeters": 1326.66650390625,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Markusstraße",
+			"stopIndex": 4,
+			"distanceInMeters": 655.18499755859375,
+			"groupName": "Wegberg Markusstraße",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Echter Straße",
+			"stopIndex": 2,
+			"distanceInMeters": 307.72067260742188,
+			"groupName": "Wegberg Echter Straße",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Begegnungszentrum",
+			"stopIndex": 6,
+			"distanceInMeters": 286.18832397460938,
+			"groupName": "Wegberg Begegnungszentrum",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Gerichhausen",
+			"stopIndex": 8,
+			"distanceInMeters": 471.9481201171875,
+			"groupName": "Wegberg Gerichhausen",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck im Maggenfeld",
+			"stopIndex": 6,
+			"distanceInMeters": 726.51959228515625,
+			"groupName": "Beeck im Maggenfeld",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck am Friedhof",
+			"stopIndex": 7,
+			"distanceInMeters": 539.4639892578125,
+			"groupName": "Beeck am Friedhof",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Holtum Spielplatz",
+			"stopIndex": 3,
+			"distanceInMeters": 1936.3211669921875,
+			"groupName": "Holtum Spielplatz",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kehrbusch",
+			"stopIndex": 6,
+			"distanceInMeters": 2186.999755859375,
+			"groupName": "kehrbusch",
+			"travelTimeMinutes": 25,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "isengraben",
+			"stopIndex": 4,
+			"distanceInMeters": 786.451416015625,
+			"groupName": "isengraben",
+			"travelTimeMinutes": 27,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 11030.046875,
+	"travelTimeMinutes": 27,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

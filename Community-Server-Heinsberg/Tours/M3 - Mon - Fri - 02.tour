@@ -1,0 +1,66 @@
+﻿{
+	"name": "02",
+	"line": "M3",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M3",
+			"slotId": 0
+		},
+		{
+			"line": "M3",
+			"slotId": 53
+		},
+		{
+			"line": "M3",
+			"slotId": 3
+		},
+		{
+			"line": "M3",
+			"slotId": 56
+		},
+		{
+			"line": "M5",
+			"slotId": 7
+		},
+		{
+			"line": "M5",
+			"slotId": 59
+		},
+		{
+			"line": "M6",
+			"slotId": 12
+		},
+		{
+			"line": "M6",
+			"slotId": 65
+		},
+		{
+			"line": "M6",
+			"slotId": 18
+		},
+		{
+			"line": "M6",
+			"slotId": 70
+		},
+		{
+			"line": "M6",
+			"slotId": 23
+		},
+		{
+			"line": "M6",
+			"slotId": 75
+		}
+	],
+	"fleetVehicleId": "2002"
+}

@@ -1,0 +1,42 @@
+﻿{
+	"name": "03",
+	"line": "M7",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "M7",
+			"slotId": 1
+		},
+		{
+			"line": "M7",
+			"slotId": 53
+		},
+		{
+			"line": "M7",
+			"slotId": 5
+		},
+		{
+			"line": "M7",
+			"slotId": 57
+		},
+		{
+			"line": "M7",
+			"slotId": 9
+		},
+		{
+			"line": "M7",
+			"slotId": 62
+		}
+	],
+	"fleetVehicleId": "1207"
+}

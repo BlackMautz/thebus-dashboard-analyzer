@@ -1,0 +1,31 @@
+﻿{
+	"name": "M5",
+	"displayName": "None",
+	"nameId": 805,
+	"breakStops": [
+		{
+			"stopName": "Pause Erkelenz Bahnhof",
+			"stopIndex": 6,
+			"distanceInMeters": 0,
+			"groupName": "Pause Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Abstellplatz",
+			"stopIndex": 0,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Abstellplatz",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

@@ -1,0 +1,108 @@
+﻿{
+	"line": "EK2",
+	"forward": true,
+	"note": "Verstärkerfahrt",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:02:00.000000000",
+	"endStopTextOverwrite": "Lövenich\r\nSchule",
+	"routeName": "07",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 8,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 2,
+			"distanceInMeters": 3290.24560546875,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 7,
+			"distanceInMeters": 335.56192016601562,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 3,
+			"distanceInMeters": 675.62896728515625,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 5,
+			"distanceInMeters": 1183.1407470703125,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wahnenbusch",
+			"stopIndex": 3,
+			"distanceInMeters": 600.37652587890625,
+			"groupName": "Wahnenbusch",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Bruchstr",
+			"stopIndex": 3,
+			"distanceInMeters": 2245.194580078125,
+			"groupName": "Lövenich Bruchstr",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Post",
+			"stopIndex": 2,
+			"distanceInMeters": 273.10699462890625,
+			"groupName": "Lövenich Post",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Schule",
+			"stopIndex": 6,
+			"distanceInMeters": 764.30279541015625,
+			"groupName": "Lövenich Schule",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 9367.55859375,
+	"travelTimeMinutes": 15,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

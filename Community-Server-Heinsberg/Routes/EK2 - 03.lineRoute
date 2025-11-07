@@ -1,0 +1,148 @@
+﻿{
+	"line": "EK2",
+	"forward": true,
+	"note": "Ab Bahnhof ohne Löv. Schule",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Katzem\r\nKirche",
+	"routeName": "03",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 0,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Agentur für Arbeit",
+			"stopIndex": 8,
+			"distanceInMeters": 578.3941650390625,
+			"groupName": "Erkelenz Agentur für Arbeit",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 2,
+			"distanceInMeters": 482.78189086914062,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 7,
+			"distanceInMeters": 289.53787231445312,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 3,
+			"distanceInMeters": 640.293212890625,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 5,
+			"distanceInMeters": 1009.9571533203125,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wahnenbusch",
+			"stopIndex": 3,
+			"distanceInMeters": 615.674072265625,
+			"groupName": "Wahnenbusch",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Bruchstr",
+			"stopIndex": 3,
+			"distanceInMeters": 2259.024169921875,
+			"groupName": "Lövenich Bruchstr",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Post",
+			"stopIndex": 2,
+			"distanceInMeters": 300.92654418945312,
+			"groupName": "Lövenich Post",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Markt",
+			"stopIndex": 2,
+			"distanceInMeters": 1276.74560546875,
+			"groupName": "Lövenich Markt",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kleinbouslar",
+			"stopIndex": 3,
+			"distanceInMeters": 1698.4281005859375,
+			"groupName": "kleinbouslar",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Vorstadt",
+			"stopIndex": 4,
+			"distanceInMeters": 1449.9974365234375,
+			"groupName": "Katzem Vorstadt",
+			"travelTimeMinutes": 21,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Kirche",
+			"stopIndex": 2,
+			"distanceInMeters": 340.13455200195312,
+			"groupName": "Katzem Kirche",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 10941.89453125,
+	"travelTimeMinutes": 22,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

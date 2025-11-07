@@ -1,0 +1,158 @@
+﻿{
+	"line": "017",
+	"forward": true,
+	"note": "kurzläufer HDS",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Rheindahlen\r\nHilderather Straße",
+	"routeName": "03",
+	"routeStops": [
+		{
+			"stopName": "Lilienthalstraße",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Lilienthalstraße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Enscheder Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 465.47183227539062,
+			"groupName": "Enscheder Straße",
+			"travelTimeMinutes": 1,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Belgrader Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 369.03195190429688,
+			"groupName": "Belgrader Straße",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Nordpark Busbahnhof",
+			"stopIndex": 25,
+			"distanceInMeters": 330.97341918945312,
+			"groupName": "Nordpark Busbahnhof",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Nordpark",
+			"stopIndex": 6,
+			"distanceInMeters": 612.4678955078125,
+			"groupName": "Am Nordpark",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Am Borussiapark",
+			"stopIndex": 6,
+			"distanceInMeters": 316.5411376953125,
+			"groupName": "Am Borussiapark",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Dahlener Heide",
+			"stopIndex": 9,
+			"distanceInMeters": 292.36343383789062,
+			"groupName": "Dahlener Heide",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "dorthausen",
+			"stopIndex": 2,
+			"distanceInMeters": 641.7158203125,
+			"groupName": "dorthausen",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kothausen",
+			"stopIndex": 5,
+			"distanceInMeters": 706.62615966796875,
+			"groupName": "kothausen",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Hohe Straße",
+			"stopIndex": 1,
+			"distanceInMeters": 749.79278564453125,
+			"groupName": "Hohe Straße",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "vogtsgarten",
+			"stopIndex": 8,
+			"distanceInMeters": 320.42938232421875,
+			"groupName": "vogtsgarten",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 1,
+			"distanceInMeters": 339.6397705078125,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Industriehof",
+			"stopIndex": 5,
+			"distanceInMeters": 239.46759033203125,
+			"groupName": "Industriehof",
+			"travelTimeMinutes": 15,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 484.25955200195312,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 17,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 5868.78125,
+	"travelTimeMinutes": 17,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

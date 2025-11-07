@@ -1,0 +1,278 @@
+﻿{
+	"line": "NE7",
+	"forward": true,
+	"note": "",
+	"breakStopsGroupName": "Erkelenz Abstellplatz",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:02:00.000000000",
+	"endStopTextOverwrite": "",
+	"routeName": "01",
+	"routeStops": [
+		{
+			"stopName": "Holtum Spielplatz",
+			"stopIndex": 3,
+			"distanceInMeters": 0,
+			"groupName": "Holtum Spielplatz",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Moorshoven Landstr.",
+			"stopIndex": 9,
+			"distanceInMeters": 2351.242431640625,
+			"groupName": "Moorshoven Landstr.",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Kipshoven Kieswerk",
+			"stopIndex": 4,
+			"distanceInMeters": 469.058349609375,
+			"groupName": "Kipshoven Kieswerk",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mehlbusch",
+			"stopIndex": 1,
+			"distanceInMeters": 668.427978515625,
+			"groupName": "Mehlbusch",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schönhausen",
+			"stopIndex": 5,
+			"distanceInMeters": 914.91656494140625,
+			"groupName": "Abzw. Schönhausen",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 2,
+			"distanceInMeters": 596.64813232421875,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Borschemich Kapelle",
+			"stopIndex": 2,
+			"distanceInMeters": 2552.96630859375,
+			"groupName": "Borschemich Kapelle",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Mennekrath",
+			"stopIndex": 2,
+			"distanceInMeters": 883.700927734375,
+			"groupName": "Mennekrath",
+			"travelTimeMinutes": 16,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 2195.5615234375,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 19,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 0,
+			"distanceInMeters": 1440.153076171875,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 22,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 11,
+			"distanceInMeters": 691.26837158203125,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 24,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 7,
+			"distanceInMeters": 656.9615478515625,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 26,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Agentur für Arbeit",
+			"stopIndex": 8,
+			"distanceInMeters": 476.5120849609375,
+			"groupName": "Erkelenz Agentur für Arbeit",
+			"travelTimeMinutes": 28,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Hagelkreuz",
+			"stopIndex": 2,
+			"distanceInMeters": 482.90927124023438,
+			"groupName": "Erkelenz Hagelkreuz",
+			"travelTimeMinutes": 30,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Süd",
+			"stopIndex": 7,
+			"distanceInMeters": 289.53787231445312,
+			"groupName": "Erkelenz Süd",
+			"travelTimeMinutes": 31,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Gewerbepark Commerden",
+			"stopIndex": 3,
+			"distanceInMeters": 640.2933349609375,
+			"groupName": "Gewerbepark Commerden",
+			"travelTimeMinutes": 33,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Tenholt Grillhütte",
+			"stopIndex": 5,
+			"distanceInMeters": 1009.95703125,
+			"groupName": "Tenholt Grillhütte",
+			"travelTimeMinutes": 35,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wahnenbusch",
+			"stopIndex": 3,
+			"distanceInMeters": 615.674072265625,
+			"groupName": "Wahnenbusch",
+			"travelTimeMinutes": 37,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Bruchstr",
+			"stopIndex": 3,
+			"distanceInMeters": 2259.023681640625,
+			"groupName": "Lövenich Bruchstr",
+			"travelTimeMinutes": 40,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Post",
+			"stopIndex": 2,
+			"distanceInMeters": 301.0338134765625,
+			"groupName": "Lövenich Post",
+			"travelTimeMinutes": 42,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Schweizerstraße",
+			"stopIndex": 3,
+			"distanceInMeters": 263.06619262695312,
+			"groupName": "Lövenich Schweizerstraße",
+			"travelTimeMinutes": 44,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Lövenich Markt",
+			"stopIndex": 2,
+			"distanceInMeters": 449.49771118164062,
+			"groupName": "Lövenich Markt",
+			"travelTimeMinutes": 46,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "kleinbouslar",
+			"stopIndex": 3,
+			"distanceInMeters": 1698.466796875,
+			"groupName": "kleinbouslar",
+			"travelTimeMinutes": 49,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Vorstadt",
+			"stopIndex": 4,
+			"distanceInMeters": 1449.9974365234375,
+			"groupName": "Katzem Vorstadt",
+			"travelTimeMinutes": 52,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Kirche",
+			"stopIndex": 2,
+			"distanceInMeters": 342.18414306640625,
+			"groupName": "Katzem Kirche",
+			"travelTimeMinutes": 54,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Katzem Schule",
+			"stopIndex": 4,
+			"distanceInMeters": 246.03361511230469,
+			"groupName": "Katzem Schule",
+			"travelTimeMinutes": 55,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 23945.091796875,
+	"travelTimeMinutes": 55,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

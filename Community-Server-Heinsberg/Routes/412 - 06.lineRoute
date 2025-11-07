@@ -1,0 +1,108 @@
+﻿{
+	"line": "412",
+	"forward": true,
+	"note": "6:42 Ab. Beeck.A.F Nach Bild.",
+	"breakStopsGroupName": "Wegberg Bildungscampus",
+	"travelTimeFromBreakStop": "+00000000.00:02:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:08:00.000000000",
+	"endStopTextOverwrite": "Wegberg\r\nSchwalmaue",
+	"routeName": "06",
+	"routeStops": [
+		{
+			"stopName": "Beeck am Friedhof",
+			"stopIndex": 13,
+			"distanceInMeters": 0,
+			"groupName": "Beeck am Friedhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck im Maggenfeld",
+			"stopIndex": 2,
+			"distanceInMeters": 551.85504150390625,
+			"groupName": "Beeck im Maggenfeld",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Beeck Am Grüngürtel",
+			"stopIndex": 3,
+			"distanceInMeters": 534.26544189453125,
+			"groupName": "Beeck Am Grüngürtel",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "beeckerwald",
+			"stopIndex": 4,
+			"distanceInMeters": 325.23623657226562,
+			"groupName": "beeckerwald",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Kiefernweg",
+			"stopIndex": 5,
+			"distanceInMeters": 311.8746337890625,
+			"groupName": "Wegberg Kiefernweg",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Lindenstraße",
+			"stopIndex": 4,
+			"distanceInMeters": 374.42999267578125,
+			"groupName": "Wegberg Lindenstraße",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Gerichhausen",
+			"stopIndex": 3,
+			"distanceInMeters": 228.96136474609375,
+			"groupName": "Wegberg Gerichhausen",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Begegnungszentrum",
+			"stopIndex": 4,
+			"distanceInMeters": 192.0047607421875,
+			"groupName": "Wegberg Begegnungszentrum",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 0,
+			"distanceInMeters": 2720.86376953125,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 5239.4912109375,
+	"travelTimeMinutes": 14,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

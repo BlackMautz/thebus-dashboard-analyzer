@@ -1,0 +1,68 @@
+﻿{
+	"line": "RE4",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:00:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Schienenersatzverkehr\r\nMönchengladbach",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 34,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 5,
+			"distanceInMeters": 418557.53125,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 6,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 4,
+			"distanceInMeters": 418127.03125,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Bahnübergang",
+			"stopIndex": 5,
+			"distanceInMeters": 123004.5,
+			"groupName": "Rheindahlen Bahnübergang",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Nordpark Busbahnhof",
+			"stopIndex": 1,
+			"distanceInMeters": 407712.75,
+			"groupName": "Nordpark Busbahnhof",
+			"travelTimeMinutes": 20,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 1367401.75,
+	"travelTimeMinutes": 20,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Bus"
+}

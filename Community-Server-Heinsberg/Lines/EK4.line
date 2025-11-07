@@ -1,0 +1,21 @@
+﻿{
+	"name": "EK4",
+	"displayName": "None",
+	"nameId": 394,
+	"breakStops": [
+		{
+			"stopName": "Erkelenz Abstellplatz",
+			"stopIndex": 1,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Abstellplatz",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

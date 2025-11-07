@@ -1,0 +1,68 @@
+﻿{
+	"line": "EK4",
+	"forward": false,
+	"note": "Schulzusatzfahrt",
+	"breakStopsGroupName": "Erkelenz Abstellplatz",
+	"travelTimeFromBreakStop": "+00000000.00:02:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:00:00.000000000",
+	"endStopTextOverwrite": "EINSATZWAGEN\r\nERKABUS ZOB",
+	"routeName": "05",
+	"routeStops": [
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Aachener Str.",
+			"stopIndex": 5,
+			"distanceInMeters": 2050.333740234375,
+			"groupName": "Erkelenz Aachener Str.",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz  Oidtmannhof",
+			"stopIndex": 11,
+			"distanceInMeters": 4949.625,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 5,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Gymnasium",
+			"stopIndex": 2,
+			"distanceInMeters": 1054.517333984375,
+			"groupName": "Erkelenz Gymnasium",
+			"travelTimeMinutes": 7,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 11,
+			"distanceInMeters": 7767.20166015625,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 15821.677734375,
+	"travelTimeMinutes": 9,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

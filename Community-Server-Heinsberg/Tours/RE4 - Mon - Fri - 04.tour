@@ -1,0 +1,30 @@
+﻿{
+	"name": "04",
+	"line": "RE4",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "RE4",
+			"slotId": 2
+		},
+		{
+			"line": "RE4",
+			"slotId": 38
+		},
+		{
+			"line": "RE4",
+			"slotId": 4
+		}
+	],
+	"fleetVehicleId": "1211"
+}

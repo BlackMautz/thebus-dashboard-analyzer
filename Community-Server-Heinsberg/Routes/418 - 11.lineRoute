@@ -1,0 +1,68 @@
+﻿{
+	"line": "418",
+	"forward": false,
+	"note": "7:46",
+	"breakStopsGroupName": "Pause Erkelenz Bahnhof",
+	"travelTimeFromBreakStop": "+00000000.00:08:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:01:00.000000000",
+	"endStopTextOverwrite": "Erkelenz\r\nOidtmannhof",
+	"routeName": "11",
+	"routeStops": [
+		{
+			"stopName": "Wegberg Schwalmaue",
+			"stopIndex": 5,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Schwalmaue",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Maaseiker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 505.2568359375,
+			"groupName": "Wegberg Maaseiker Str.",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 4,
+			"distanceInMeters": 400.9727783203125,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 3,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 2,
+			"distanceInMeters": 615830.1875,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 10,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz  Oidtmannhof",
+			"stopIndex": 11,
+			"distanceInMeters": 215811.765625,
+			"groupName": "Erkelenz Oidtmannhof",
+			"travelTimeMinutes": 13,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 832548.1875,
+	"travelTimeMinutes": 13,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

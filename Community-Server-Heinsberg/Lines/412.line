@@ -1,0 +1,41 @@
+﻿{
+	"name": "412",
+	"displayName": "None",
+	"nameId": 412,
+	"breakStops": [
+		{
+			"stopName": "Pause Erkelenz Bahnhof",
+			"stopIndex": 6,
+			"distanceInMeters": 0,
+			"groupName": "Pause Erkelenz Bahnhof",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 22,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Abstellplatz",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Erkelenz Abstellplatz",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Abstellplatz Erkelenz",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

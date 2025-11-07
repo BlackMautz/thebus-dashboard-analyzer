@@ -1,0 +1,54 @@
+﻿{
+	"name": "03",
+	"line": "RE4",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "RE4",
+			"slotId": 14
+		},
+		{
+			"line": "RE4",
+			"slotId": 50
+		},
+		{
+			"line": "RE4",
+			"slotId": 16
+		},
+		{
+			"line": "RE4",
+			"slotId": 52
+		},
+		{
+			"line": "RE4",
+			"slotId": 18
+		},
+		{
+			"line": "RE4",
+			"slotId": 54
+		},
+		{
+			"line": "RE4",
+			"slotId": 20
+		},
+		{
+			"line": "RE4",
+			"slotId": 56
+		},
+		{
+			"line": "RE4",
+			"slotId": 22
+		}
+	],
+	"fleetVehicleId": "2008"
+}

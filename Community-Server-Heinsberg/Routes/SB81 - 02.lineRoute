@@ -1,0 +1,108 @@
+﻿{
+	"line": "SB81",
+	"forward": false,
+	"note": "",
+	"breakStopsGroupName": "None",
+	"travelTimeFromBreakStop": "+00000000.00:09:00.000000000",
+	"travelTimeFromDepot": "+00000000.00:10:00.000000000",
+	"endStopTextOverwrite": "Erkelenz\r\nBahnhof",
+	"routeName": "02",
+	"routeStops": [
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 5,
+			"distanceInMeters": 0,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rheindahlen Erkelenzer Str",
+			"stopIndex": 9,
+			"distanceInMeters": 873.8792724609375,
+			"groupName": "Rheindahlen Erkelenzer Str",
+			"travelTimeMinutes": 2,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Schriefersmühle",
+			"stopIndex": 6,
+			"distanceInMeters": 1058.9329833984375,
+			"groupName": "Schriefersmühle",
+			"travelTimeMinutes": 4,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Abzw. Schönhausen",
+			"stopIndex": 5,
+			"distanceInMeters": 2473.595458984375,
+			"groupName": "Abzw. Schönhausen",
+			"travelTimeMinutes": 8,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Rath-Anhoven Süd",
+			"stopIndex": 2,
+			"distanceInMeters": 596.64813232421875,
+			"groupName": "Rath-Anhoven Süd",
+			"travelTimeMinutes": 9,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Beecker Str.",
+			"stopIndex": 0,
+			"distanceInMeters": 2329.32421875,
+			"groupName": "Erkelenz Beecker Str.",
+			"travelTimeMinutes": 11,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Ziegelweiher",
+			"stopIndex": 0,
+			"distanceInMeters": 1440.152587890625,
+			"groupName": "Erkelenz Ziegelweiher",
+			"travelTimeMinutes": 12,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz ZOB",
+			"stopIndex": 2,
+			"distanceInMeters": 683.4049072265625,
+			"groupName": "Erkelenz ZOB",
+			"travelTimeMinutes": 14,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Erkelenz Bahnhof",
+			"stopIndex": 5,
+			"distanceInMeters": 1503.2528076171875,
+			"groupName": "Erkelenz Bahnhof",
+			"travelTimeMinutes": 18,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"routeLengthInMeters": 10959.1904296875,
+	"travelTimeMinutes": 18,
+	"isCustomRoute": false,
+	"lineNumber": 0,
+	"expressRoute": false,
+	"priorityRoadType": "Highway"
+}

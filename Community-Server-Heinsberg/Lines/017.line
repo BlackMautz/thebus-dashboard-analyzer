@@ -1,0 +1,31 @@
+﻿{
+	"name": "017",
+	"displayName": "None",
+	"nameId": 17,
+	"breakStops": [
+		{
+			"stopName": "Rheindahlen Hilderather Straße",
+			"stopIndex": 2,
+			"distanceInMeters": 0,
+			"groupName": "Rheindahlen Hilderather Straße",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		},
+		{
+			"stopName": "Wegberg Bildungscampus",
+			"stopIndex": 22,
+			"distanceInMeters": 0,
+			"groupName": "Wegberg Bildungscampus",
+			"travelTimeMinutes": 0,
+			"travelTimeOffsetMinutes": 0,
+			"waitingTimeMinutes": 0,
+			"isImportant": false
+		}
+	],
+	"depotStopGroup": "Nordpark Busbahnhof",
+	"isCustom": false,
+	"startTextOverride": "",
+	"endTextOverride": ""
+}

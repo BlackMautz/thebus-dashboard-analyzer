@@ -1,0 +1,86 @@
+﻿{
+	"name": "04",
+	"line": "EK2",
+	"conditions":
+	{
+		"monday": true,
+		"tuesday": true,
+		"wednesday": true,
+		"thursday": true,
+		"friday": true,
+		"saturday": false,
+		"sunday": false,
+		"holiday": false
+	},
+	"slots": [
+		{
+			"line": "EK2",
+			"slotId": 1
+		},
+		{
+			"line": "EK2",
+			"slotId": 45
+		},
+		{
+			"line": "EK4",
+			"slotId": 40
+		},
+		{
+			"line": "EK4",
+			"slotId": 3
+		},
+		{
+			"line": "M5",
+			"slotId": 61
+		},
+		{
+			"line": "M5",
+			"slotId": 14
+		},
+		{
+			"line": "M5",
+			"slotId": 65
+		},
+		{
+			"line": "M5",
+			"slotId": 18
+		},
+		{
+			"line": "M6",
+			"slotId": 69
+		},
+		{
+			"line": "M6",
+			"slotId": 22
+		},
+		{
+			"line": "M6",
+			"slotId": 74
+		},
+		{
+			"line": "M7",
+			"slotId": 27
+		},
+		{
+			"line": "M7",
+			"slotId": 79
+		},
+		{
+			"line": "RE4",
+			"slotId": 57
+		},
+		{
+			"line": "RE4",
+			"slotId": 23
+		},
+		{
+			"line": "SB8",
+			"slotId": 26
+		},
+		{
+			"line": "SB8",
+			"slotId": 11
+		}
+	],
+	"fleetVehicleId": "1922"
+}

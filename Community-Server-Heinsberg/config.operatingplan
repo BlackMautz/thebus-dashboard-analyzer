@@ -1,0 +1,10 @@
+﻿{
+	"name": "Community-Server-Heinsberg",
+	"assignedMapName": "wegberg",
+	"replaceDefaultPlan": false,
+	"dayAfterMidnightExtensionLength": "+00000000.04:00:00.000000000",
+	"creatorName": "Ben75",
+	"steamWorkshopId": "0",
+	"creationDateTime": "2025.11.07-17.13.42",
+	"lastEditedDateTime": "2025.11.07-17.13.42"
+}

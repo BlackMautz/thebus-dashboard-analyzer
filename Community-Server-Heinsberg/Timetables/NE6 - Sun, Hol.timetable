@@ -1,0 +1,170 @@
+﻿{
+	"line": "NE6",
+	"conditions":
+	{
+		"monday": false,
+		"tuesday": false,
+		"wednesday": false,
+		"thursday": false,
+		"friday": false,
+		"saturday": false,
+		"sunday": true,
+		"holiday": true
+	},
+	"routes": [
+		{
+			"iD": 0,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 0,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 1,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 0,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 2,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 1,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 8,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 1,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 3,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 2,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 9,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 2,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 4,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 3,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 10,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 3,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 5,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 4,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 11,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 4,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 6,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 5,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 12,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 5,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 7,
+			"route": "01",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 4
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		},
+		{
+			"iD": 13,
+			"route": "02",
+			"startTime":
+			{
+				"hour": 6,
+				"minute": 9
+			},
+			"startTimeMinutes": 0,
+			"onSchoolDays": 0
+		}
+	]
+}
